@@ -1,0 +1,5332 @@
+{
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 53,
+    "items": [
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/11248accca187a9a14064030330f3213707343b7?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "23f01Cksl3kGHwlm4TvtfF",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2730a87ed92a03ecba110c38eb0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e020a87ed92a03ecba110c38eb0",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048510a87ed92a03ecba110c38eb0",
+                    "width": 64
+                }],
+                "name": "Isang Tugon",
+                "release_date": "2024-08-07",
+                "release_date_precision": "day",
+                "uri": "spotify:album:23f01Cksl3kGHwlm4TvtfF",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/23f01Cksl3kGHwlm4TvtfF"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 192540,
+            "external_ids":
+            {
+                "isrc": "PHS112400576"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/37gSb9DJFGANa2G6tmaKnx"
+            },
+            "id": "37gSb9DJFGANa2G6tmaKnx",
+            "name": "Isang Tugon",
+            "popularity": 29,
+            "uri": "spotify:track:37gSb9DJFGANa2G6tmaKnx",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/5194522c6c9613c33f4462d944837d749bacb399?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "4FmwEgKgo853PWNydf3cP1",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b98810e62dbc321baef58379",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b98810e62dbc321baef58379",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b98810e62dbc321baef58379",
+                    "width": 64
+                }],
+                "name": "Hometown, Part 2",
+                "release_date": "2023-08-04",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4FmwEgKgo853PWNydf3cP1",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4FmwEgKgo853PWNydf3cP1"
+                },
+                "total_tracks": 19
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/62WbvkXqQGvXQvw74GU3kQ"
+                },
+                "id": "62WbvkXqQGvXQvw74GU3kQ",
+                "name": "Morissette",
+                "type": "artist",
+                "uri": "spotify:artist:62WbvkXqQGvXQvw74GU3kQ"
+            }],
+            "disc_number": 1,
+            "track_number": 11,
+            "duration_ms": 245815,
+            "external_ids":
+            {
+                "isrc": "PHS112300303"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/11hNVB4uLza3u4sXu7jzP7"
+            },
+            "id": "11hNVB4uLza3u4sXu7jzP7",
+            "name": "So Close (feat. Morissette)",
+            "popularity": 32,
+            "uri": "spotify:track:11hNVB4uLza3u4sXu7jzP7",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/0193a7d8ff6700f42c371b0d086061e5affd3524?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "5FwpFPmkZdwB8eH5NLtneW",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c57a3775403f6f4fc1dc2adb",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02c57a3775403f6f4fc1dc2adb",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851c57a3775403f6f4fc1dc2adb",
+                    "width": 64
+                }],
+                "name": "Gunita",
+                "release_date": "2020-04-18",
+                "release_date_precision": "day",
+                "uri": "spotify:album:5FwpFPmkZdwB8eH5NLtneW",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/5FwpFPmkZdwB8eH5NLtneW"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/4qPhnQfRgdgcZEdXgENOnr"
+                },
+                "id": "4qPhnQfRgdgcZEdXgENOnr",
+                "name": "Janine Berdin",
+                "type": "artist",
+                "uri": "spotify:artist:4qPhnQfRgdgcZEdXgENOnr"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 181301,
+            "external_ids":
+            {
+                "isrc": "FR2X42007206"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/44IJSehOM07ie2Tc2LtYsP"
+            },
+            "id": "44IJSehOM07ie2Tc2LtYsP",
+            "name": "Gunita",
+            "popularity": 29,
+            "uri": "spotify:track:44IJSehOM07ie2Tc2LtYsP",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/de42ef31517f7f6036e76670b9dee7da8ee854e1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "60iIbmxo397WC3tg9jqzx5",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273d3f534a05674f27523a4b5a7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02d3f534a05674f27523a4b5a7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851d3f534a05674f27523a4b5a7",
+                    "width": 64
+                }],
+                "name": "Kung Saan Ka Masaya",
+                "release_date": "2024-05-10",
+                "release_date_precision": "day",
+                "uri": "spotify:album:60iIbmxo397WC3tg9jqzx5",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/60iIbmxo397WC3tg9jqzx5"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 248892,
+            "external_ids":
+            {
+                "isrc": "PHS032402658"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1b0pwB14KKV6wFx3OKbPEi"
+            },
+            "id": "1b0pwB14KKV6wFx3OKbPEi",
+            "name": "Kung Saan Ka Masaya",
+            "popularity": 27,
+            "uri": "spotify:track:1b0pwB14KKV6wFx3OKbPEi",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/6a3220ae01c08cfa7ddeba6303a389e05f696767?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "004uzq476rDPXmHoWLLJyX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273a00746b4108573e75ec6fa9b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02a00746b4108573e75ec6fa9b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851a00746b4108573e75ec6fa9b",
+                    "width": 64
+                }],
+                "name": "Palabas & Transit Collection",
+                "release_date": "2014-03-17",
+                "release_date_precision": "day",
+                "uri": "spotify:album:004uzq476rDPXmHoWLLJyX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/004uzq476rDPXmHoWLLJyX"
+                },
+                "total_tracks": 32
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 11,
+            "duration_ms": 285853,
+            "external_ids":
+            {
+                "isrc": "PHU011312969"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7vfTXGk3a0HDfeYe3judoY"
+            },
+            "id": "7vfTXGk3a0HDfeYe3judoY",
+            "name": "Dragonfly",
+            "popularity": 33,
+            "uri": "spotify:track:7vfTXGk3a0HDfeYe3judoY",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/0eca7a4e4cce47ef66fa6680a11f23636cc97139?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2PNW14mi4SjSOTG3TZEAlf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ca546ccb581086ced362b7df",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ca546ccb581086ced362b7df",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ca546ccb581086ced362b7df",
+                    "width": 64
+                }],
+                "name": "Araw Oras Tagpuan",
+                "release_date": "2011-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2PNW14mi4SjSOTG3TZEAlf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2PNW14mi4SjSOTG3TZEAlf"
+                },
+                "total_tracks": 13
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 6,
+            "duration_ms": 280306,
+            "external_ids":
+            {
+                "isrc": "FR6V82355101"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3I8zx5hE49QaCIWR7BJ2Di"
+            },
+            "id": "0DgmFkzTdM3hpH2WgheJ4b",
+            "name": "Kay Tagal Kitang Hinintay",
+            "popularity": 0,
+            "uri": "spotify:track:0DgmFkzTdM3hpH2WgheJ4b",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/3I8zx5hE49QaCIWR7BJ2Di"
+                },
+                "id": "3I8zx5hE49QaCIWR7BJ2Di",
+                "type": "track",
+                "uri": "spotify:track:3I8zx5hE49QaCIWR7BJ2Di"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/7b6f6f3ad037a300766996c1e0a336e9abd2e40a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "6ChgAzrMYdAVVm2fY2szVd",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739d58c1054b84d483f37beb7a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029d58c1054b84d483f37beb7a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048519d58c1054b84d483f37beb7a",
+                    "width": 64
+                }],
+                "name": "Pag-Ibig (From \"Dangwa\")",
+                "release_date": "2015",
+                "release_date_precision": "year",
+                "uri": "spotify:album:6ChgAzrMYdAVVm2fY2szVd",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6ChgAzrMYdAVVm2fY2szVd"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 154709,
+            "external_ids":
+            {
+                "isrc": "PHG111500924"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/5fJHoiDbRO8f7wkGL0kotY"
+            },
+            "id": "5fJHoiDbRO8f7wkGL0kotY",
+            "name": "Pag-Ibig - From \"Dangwa\"",
+            "popularity": 49,
+            "uri": "spotify:track:5fJHoiDbRO8f7wkGL0kotY",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/b592885f597d8af2460314a82989849490cfd2d1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2yCy36hxBEoYLtzZXmytFk",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27362df9c1b3d903226e9651901",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0262df9c1b3d903226e9651901",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485162df9c1b3d903226e9651901",
+                    "width": 64
+                }],
+                "name": "Sponge Cola",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2yCy36hxBEoYLtzZXmytFk",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2yCy36hxBEoYLtzZXmytFk"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 4,
+            "duration_ms": 193506,
+            "external_ids":
+            {
+                "isrc": "FR6V82355138"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4e0rMS4w6Ssim4K4W11J8I"
+            },
+            "id": "12yyDHIguZFBcIGYwToH20",
+            "name": "Di Na Mababawi",
+            "popularity": 0,
+            "uri": "spotify:track:12yyDHIguZFBcIGYwToH20",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/4e0rMS4w6Ssim4K4W11J8I"
+                },
+                "id": "4e0rMS4w6Ssim4K4W11J8I",
+                "type": "track",
+                "uri": "spotify:track:4e0rMS4w6Ssim4K4W11J8I"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/ad10ee73aac44898a8f817614126100ab05f0b02?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "3KyzsXSf2iFxRJtTq6BABy",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2732923ce6c9f513e004ded421a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e022923ce6c9f513e004ded421a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048512923ce6c9f513e004ded421a",
+                    "width": 64
+                }],
+                "name": "Sinag Tala",
+                "release_date": "2016-08-19",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3KyzsXSf2iFxRJtTq6BABy",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3KyzsXSf2iFxRJtTq6BABy"
+                },
+                "total_tracks": 11
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 155920,
+            "external_ids":
+            {
+                "isrc": "PHU011615415"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/2ZbbVF3iQnxmHxyDDnfAmF"
+            },
+            "id": "2ZbbVF3iQnxmHxyDDnfAmF",
+            "name": "Pag-ibig",
+            "popularity": 54,
+            "uri": "spotify:track:2ZbbVF3iQnxmHxyDDnfAmF",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/3097b48938f477b116ab2a66c72934e04a2a19e1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6UY5OAnMMgpjtYvuaUYsXf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733e615ee76dddbc7ed83daae2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023e615ee76dddbc7ed83daae2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513e615ee76dddbc7ed83daae2",
+                    "width": 64
+                }],
+                "name": "Transit Deluxe",
+                "release_date": "2008-01-23",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6UY5OAnMMgpjtYvuaUYsXf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6UY5OAnMMgpjtYvuaUYsXf"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 15,
+            "duration_ms": 233186,
+            "external_ids":
+            {
+                "isrc": "PHU012216285"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4K8bNY4RtMeNxZ1rJU8u2T"
+            },
+            "id": "4K8bNY4RtMeNxZ1rJU8u2T",
+            "name": "Nakapagtataka",
+            "popularity": 55,
+            "uri": "spotify:track:4K8bNY4RtMeNxZ1rJU8u2T",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/95cbdca4d836d9b1cb8126d2294112456905ba9b?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6UY5OAnMMgpjtYvuaUYsXf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733e615ee76dddbc7ed83daae2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023e615ee76dddbc7ed83daae2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513e615ee76dddbc7ed83daae2",
+                    "width": 64
+                }],
+                "name": "Transit Deluxe",
+                "release_date": "2008-01-23",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6UY5OAnMMgpjtYvuaUYsXf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6UY5OAnMMgpjtYvuaUYsXf"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 259506,
+            "external_ids":
+            {
+                "isrc": "PHU012216281"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/20QiBLlf1h0fQqujtwRWIk"
+            },
+            "id": "20QiBLlf1h0fQqujtwRWIk",
+            "name": "Tuliro",
+            "popularity": 54,
+            "uri": "spotify:track:20QiBLlf1h0fQqujtwRWIk",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/56ad9b2b9eced6735b2d7f3d26ca406f06e21443?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2yCy36hxBEoYLtzZXmytFk",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27362df9c1b3d903226e9651901",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0262df9c1b3d903226e9651901",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485162df9c1b3d903226e9651901",
+                    "width": 64
+                }],
+                "name": "Sponge Cola",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2yCy36hxBEoYLtzZXmytFk",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2yCy36hxBEoYLtzZXmytFk"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 10,
+            "duration_ms": 246880,
+            "external_ids":
+            {
+                "isrc": "FR6V82355144"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7K6eh0AbHofKGzQ0qr4iUN"
+            },
+            "id": "1i21cSfPe51C6EGqvDn911",
+            "name": "Makapiling Ka",
+            "popularity": 0,
+            "uri": "spotify:track:1i21cSfPe51C6EGqvDn911",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/7K6eh0AbHofKGzQ0qr4iUN"
+                },
+                "id": "7K6eh0AbHofKGzQ0qr4iUN",
+                "type": "track",
+                "uri": "spotify:track:7K6eh0AbHofKGzQ0qr4iUN"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/fed515338ad164c6c35689784f69f7c398b2503d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2PNW14mi4SjSOTG3TZEAlf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ca546ccb581086ced362b7df",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ca546ccb581086ced362b7df",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ca546ccb581086ced362b7df",
+                    "width": 64
+                }],
+                "name": "Araw Oras Tagpuan",
+                "release_date": "2011-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2PNW14mi4SjSOTG3TZEAlf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2PNW14mi4SjSOTG3TZEAlf"
+                },
+                "total_tracks": 13
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 216000,
+            "external_ids":
+            {
+                "isrc": "FR6V82355096"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1RTcvQFSS9hTJC1wSoWpXm"
+            },
+            "id": "02THzBtrTvC97Y4AHQ9fp1",
+            "name": "Tambay",
+            "popularity": 0,
+            "uri": "spotify:track:02THzBtrTvC97Y4AHQ9fp1",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/1RTcvQFSS9hTJC1wSoWpXm"
+                },
+                "id": "1RTcvQFSS9hTJC1wSoWpXm",
+                "type": "track",
+                "uri": "spotify:track:1RTcvQFSS9hTJC1wSoWpXm"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/8b44f66cd2835a2fd12a68e85334929e7a7010c2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6UY5OAnMMgpjtYvuaUYsXf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733e615ee76dddbc7ed83daae2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023e615ee76dddbc7ed83daae2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513e615ee76dddbc7ed83daae2",
+                    "width": 64
+                }],
+                "name": "Transit Deluxe",
+                "release_date": "2008-01-23",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6UY5OAnMMgpjtYvuaUYsXf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6UY5OAnMMgpjtYvuaUYsXf"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 201306,
+            "external_ids":
+            {
+                "isrc": "PHU010609743"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1BYtDVZN2PKHLqm57mWHml"
+            },
+            "id": "1BYtDVZN2PKHLqm57mWHml",
+            "name": "Bitiw",
+            "popularity": 44,
+            "uri": "spotify:track:1BYtDVZN2PKHLqm57mWHml",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/308c374103058ade86779951ed5fe3fe21263382?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6UY5OAnMMgpjtYvuaUYsXf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733e615ee76dddbc7ed83daae2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023e615ee76dddbc7ed83daae2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513e615ee76dddbc7ed83daae2",
+                    "width": 64
+                }],
+                "name": "Transit Deluxe",
+                "release_date": "2008-01-23",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6UY5OAnMMgpjtYvuaUYsXf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6UY5OAnMMgpjtYvuaUYsXf"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 11,
+            "duration_ms": 298986,
+            "external_ids":
+            {
+                "isrc": "PHU010609880"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0fk4FAdbtqXsuEYmXeslY5"
+            },
+            "id": "0fk4FAdbtqXsuEYmXeslY5",
+            "name": "Pasubali",
+            "popularity": 42,
+            "uri": "spotify:track:0fk4FAdbtqXsuEYmXeslY5",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/754a8954c7f8471d8b4f29fb35c7bde59eeb4f02?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2Bls1Q0JICmDlZzeGkSctx",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27372c7e7e9504df18db1b0b82c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0272c7e7e9504df18db1b0b82c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485172c7e7e9504df18db1b0b82c",
+                    "width": 64
+                }],
+                "name": "Sponge Cola",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2Bls1Q0JICmDlZzeGkSctx",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2Bls1Q0JICmDlZzeGkSctx"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 236466,
+            "external_ids":
+            {
+                "isrc": "FR6V82355135"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/58AmBY0zZ2ps9Zd54hZVCv"
+            },
+            "id": "58AmBY0zZ2ps9Zd54hZVCv",
+            "name": "Puso",
+            "popularity": 39,
+            "uri": "spotify:track:58AmBY0zZ2ps9Zd54hZVCv",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/bc829c6207de7f82866f562192503aeb7efbb1e9?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6gQ4cudmQGxtJBpbWpNmgf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273426e3456f2e7468d0cc5b6f4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02426e3456f2e7468d0cc5b6f4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851426e3456f2e7468d0cc5b6f4",
+                    "width": 64
+                }],
+                "name": "Sea of Lights",
+                "release_date": "2020-03-27",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6gQ4cudmQGxtJBpbWpNmgf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6gQ4cudmQGxtJBpbWpNmgf"
+                },
+                "total_tracks": 8
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 213750,
+            "external_ids":
+            {
+                "isrc": "PHU011915796"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7GNEdnfwiXyizNibM7UWLo"
+            },
+            "id": "1J0BTuag7mlpJFS3eLMv4f",
+            "name": "Kunwari",
+            "popularity": 0,
+            "uri": "spotify:track:1J0BTuag7mlpJFS3eLMv4f",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/7GNEdnfwiXyizNibM7UWLo"
+                },
+                "id": "7GNEdnfwiXyizNibM7UWLo",
+                "type": "track",
+                "uri": "spotify:track:7GNEdnfwiXyizNibM7UWLo"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/b6d2324ecbaef34c9d3d742b5ea81e2680b5f9bc?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2yCy36hxBEoYLtzZXmytFk",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27362df9c1b3d903226e9651901",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0262df9c1b3d903226e9651901",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485162df9c1b3d903226e9651901",
+                    "width": 64
+                }],
+                "name": "Sponge Cola",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2yCy36hxBEoYLtzZXmytFk",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2yCy36hxBEoYLtzZXmytFk"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 2,
+            "track_number": 2,
+            "duration_ms": 152120,
+            "external_ids":
+            {
+                "isrc": "FR6V82355150"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3vsH3cyCcuHKu34gP3dsaQ"
+            },
+            "id": "1nItviAH6F6EIQRXCOXsG5",
+            "name": "Closer You & I",
+            "popularity": 0,
+            "uri": "spotify:track:1nItviAH6F6EIQRXCOXsG5",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/3vsH3cyCcuHKu34gP3dsaQ"
+                },
+                "id": "3vsH3cyCcuHKu34gP3dsaQ",
+                "type": "track",
+                "uri": "spotify:track:3vsH3cyCcuHKu34gP3dsaQ"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/77f50d463e4b1a56415ab8d053f2551a38676939?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "7a5NOz5tgpaOKFtN0vNL6i",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273cd066c883ac8b6d27528e8e7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02cd066c883ac8b6d27528e8e7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851cd066c883ac8b6d27528e8e7",
+                    "width": 64
+                }],
+                "name": "Tatlong Buwan (Korean Ver.)",
+                "release_date": "2024-08-02",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7a5NOz5tgpaOKFtN0vNL6i",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7a5NOz5tgpaOKFtN0vNL6i"
+                },
+                "total_tracks": 2
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 168895,
+            "external_ids":
+            {
+                "isrc": "PHS112400238"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/16kmaBURxJ2WUY1J2EONmQ"
+            },
+            "id": "16kmaBURxJ2WUY1J2EONmQ",
+            "name": "Tatlong Buwan",
+            "popularity": 28,
+            "uri": "spotify:track:16kmaBURxJ2WUY1J2EONmQ",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/4788260051d387d95f11c5b4b35d57644e66d741?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "7bEJezFqr8lYkekBnvHnuX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273bd068cfda9dbc5605b614651",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02bd068cfda9dbc5605b614651",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851bd068cfda9dbc5605b614651",
+                    "width": 64
+                }],
+                "name": "Ultrablessed (Thank You Edition)",
+                "release_date": "2015-03-16",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7bEJezFqr8lYkekBnvHnuX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7bEJezFqr8lYkekBnvHnuX"
+                },
+                "total_tracks": 14
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 183053,
+            "external_ids":
+            {
+                "isrc": "PHU011312958"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/58BDmjPwFUJ2YKsmauMYbg"
+            },
+            "id": "58BDmjPwFUJ2YKsmauMYbg",
+            "name": "Kailangan Kita",
+            "popularity": 37,
+            "uri": "spotify:track:58BDmjPwFUJ2YKsmauMYbg",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/3c012a878ecaefd962024dab7fe2f165e20bd1d8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "7bEJezFqr8lYkekBnvHnuX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273bd068cfda9dbc5605b614651",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02bd068cfda9dbc5605b614651",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851bd068cfda9dbc5605b614651",
+                    "width": 64
+                }],
+                "name": "Ultrablessed (Thank You Edition)",
+                "release_date": "2015-03-16",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7bEJezFqr8lYkekBnvHnuX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7bEJezFqr8lYkekBnvHnuX"
+                },
+                "total_tracks": 14
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7HJDRQAfEcFiARVehhM6qD"
+                },
+                "id": "7HJDRQAfEcFiARVehhM6qD",
+                "name": "Gloc-9",
+                "type": "artist",
+                "uri": "spotify:artist:7HJDRQAfEcFiARVehhM6qD"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/6FuzPB7OzzhAJQDKAT3KCm"
+                },
+                "id": "6FuzPB7OzzhAJQDKAT3KCm",
+                "name": "Denise Barbacena",
+                "type": "artist",
+                "uri": "spotify:artist:6FuzPB7OzzhAJQDKAT3KCm"
+            }],
+            "disc_number": 1,
+            "track_number": 3,
+            "duration_ms": 256506,
+            "external_ids":
+            {
+                "isrc": "PHU011413077"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7hPYIVtI7xA2SAp19sSb2F"
+            },
+            "id": "7hPYIVtI7xA2SAp19sSb2F",
+            "name": "Anting-Anting",
+            "popularity": 36,
+            "uri": "spotify:track:7hPYIVtI7xA2SAp19sSb2F",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/4dbd0e1632255fa4c1c035a4ea69dee0d3b47dbe?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "7bEJezFqr8lYkekBnvHnuX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273bd068cfda9dbc5605b614651",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02bd068cfda9dbc5605b614651",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851bd068cfda9dbc5605b614651",
+                    "width": 64
+                }],
+                "name": "Ultrablessed (Thank You Edition)",
+                "release_date": "2015-03-16",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7bEJezFqr8lYkekBnvHnuX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7bEJezFqr8lYkekBnvHnuX"
+                },
+                "total_tracks": 14
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/0DnjaQqb436AH1idffI6CQ"
+                },
+                "id": "0DnjaQqb436AH1idffI6CQ",
+                "name": "Yeng Constantino",
+                "type": "artist",
+                "uri": "spotify:artist:0DnjaQqb436AH1idffI6CQ"
+            }],
+            "disc_number": 1,
+            "track_number": 6,
+            "duration_ms": 289733,
+            "external_ids":
+            {
+                "isrc": "PHU011413080"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/56EuBZQ53kwdlcy9teM1jH"
+            },
+            "id": "56EuBZQ53kwdlcy9teM1jH",
+            "name": "+63",
+            "popularity": 34,
+            "uri": "spotify:track:56EuBZQ53kwdlcy9teM1jH",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/de803b78da436dd19296dceb03693e5d803a3926?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "compilation",
+                "id": "7tfDmiKEApFiZmT5MzIN1o",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737903555ffadf0fc6020fea9a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e027903555ffadf0fc6020fea9a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048517903555ffadf0fc6020fea9a",
+                    "width": 64
+                }],
+                "name": "Ultraelectromagnetic Jam",
+                "release_date": "2005-11-15",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7tfDmiKEApFiZmT5MzIN1o",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7tfDmiKEApFiZmT5MzIN1o"
+                },
+                "total_tracks": 17
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 11,
+            "duration_ms": 362000,
+            "external_ids":
+            {
+                "isrc": "PHBO10500482"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/35fNhpzCPJIV3LWZzWUQXI"
+            },
+            "id": "35fNhpzCPJIV3LWZzWUQXI",
+            "name": "Pare Ko",
+            "popularity": 34,
+            "uri": "spotify:track:35fNhpzCPJIV3LWZzWUQXI",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/e0f0702404560398064cedc1df8c9160a8d24d27?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "3ganbkYB5cDSLuXCCn40e3",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739d20bb2cbf69cfb3485d0024",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029d20bb2cbf69cfb3485d0024",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048519d20bb2cbf69cfb3485d0024",
+                    "width": 64
+                }],
+                "name": "Sea of Lights",
+                "release_date": "2019-05-10",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3ganbkYB5cDSLuXCCn40e3",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3ganbkYB5cDSLuXCCn40e3"
+                },
+                "total_tracks": 8
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 8,
+            "duration_ms": 207624,
+            "external_ids":
+            {
+                "isrc": "PHU011915803"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/54g0y6mF8EmwWQwcwgGO0K"
+            },
+            "id": "54g0y6mF8EmwWQwcwgGO0K",
+            "name": "Tempura",
+            "popularity": 34,
+            "uri": "spotify:track:54g0y6mF8EmwWQwcwgGO0K",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/d4a0b1269a57f6b2623dbddf4abf772a6357283a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "compilation",
+                "id": "0Pza9xTcKtYKdxAsGuafwQ",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735d9b4d106e4cace72ec9a40e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e025d9b4d106e4cace72ec9a40e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048515d9b4d106e4cace72ec9a40e",
+                    "width": 64
+                }],
+                "name": "Kami Napo Muna Ulit",
+                "release_date": "2007-08-24",
+                "release_date_precision": "day",
+                "uri": "spotify:album:0Pza9xTcKtYKdxAsGuafwQ",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/0Pza9xTcKtYKdxAsGuafwQ"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 4,
+            "duration_ms": 266386,
+            "external_ids":
+            {
+                "isrc": "PHU010710344"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4FE5fI9qgC17btAZ458SAG"
+            },
+            "id": "4FE5fI9qgC17btAZ458SAG",
+            "name": "Saan Na Nga Ba'ng Barkada",
+            "popularity": 36,
+            "uri": "spotify:track:4FE5fI9qgC17btAZ458SAG",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/df56e40fe0a7bdb6b26e0a1a56a6d0d02a9b5196?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6UY5OAnMMgpjtYvuaUYsXf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733e615ee76dddbc7ed83daae2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023e615ee76dddbc7ed83daae2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513e615ee76dddbc7ed83daae2",
+                    "width": 64
+                }],
+                "name": "Transit Deluxe",
+                "release_date": "2008-01-23",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6UY5OAnMMgpjtYvuaUYsXf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6UY5OAnMMgpjtYvuaUYsXf"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 14,
+            "duration_ms": 245706,
+            "external_ids":
+            {
+                "isrc": "PHU010810512"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3vguL3qFYaSPgxnHY32f4W"
+            },
+            "id": "3vguL3qFYaSPgxnHY32f4W",
+            "name": "Tuliro (Acoustic)",
+            "popularity": 34,
+            "uri": "spotify:track:3vguL3qFYaSPgxnHY32f4W",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/1453b70f5e96bca8dcc42fee649e75378a2a38f3?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "7bEJezFqr8lYkekBnvHnuX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273bd068cfda9dbc5605b614651",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02bd068cfda9dbc5605b614651",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851bd068cfda9dbc5605b614651",
+                    "width": 64
+                }],
+                "name": "Ultrablessed (Thank You Edition)",
+                "release_date": "2015-03-16",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7bEJezFqr8lYkekBnvHnuX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7bEJezFqr8lYkekBnvHnuX"
+                },
+                "total_tracks": 14
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/3Gz2aDIqYAgw6KppSsOW9N"
+                },
+                "id": "3Gz2aDIqYAgw6KppSsOW9N",
+                "name": "feat. Jane Oineza",
+                "type": "artist",
+                "uri": "spotify:artist:3Gz2aDIqYAgw6KppSsOW9N"
+            }],
+            "disc_number": 1,
+            "track_number": 12,
+            "duration_ms": 234160,
+            "external_ids":
+            {
+                "isrc": "PHU011514768"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6LNcys6XgZFanSH7FEkx7f"
+            },
+            "id": "6LNcys6XgZFanSH7FEkx7f",
+            "name": "Move On",
+            "popularity": 33,
+            "uri": "spotify:track:6LNcys6XgZFanSH7FEkx7f",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/606caeb618cbcb97fac97bd943c0b269beb3e068?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "1IS758Pj1rIDPBqqDvbUUu",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2734dcdd1bfe5167b23f0b716ce",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e024dcdd1bfe5167b23f0b716ce",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048514dcdd1bfe5167b23f0b716ce",
+                    "width": 64
+                }],
+                "name": "District",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:1IS758Pj1rIDPBqqDvbUUu",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/1IS758Pj1rIDPBqqDvbUUu"
+                },
+                "total_tracks": 7
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 4,
+            "duration_ms": 174746,
+            "external_ids":
+            {
+                "isrc": "FR6V82355112"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1aLdgU0gxbF5PqJoq9safk"
+            },
+            "id": "1aLdgU0gxbF5PqJoq9safk",
+            "name": "Xgf",
+            "popularity": 30,
+            "uri": "spotify:track:1aLdgU0gxbF5PqJoq9safk",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/67c4968fbbcf5cbf44cc370bfafc153aa44385d3?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6UY5OAnMMgpjtYvuaUYsXf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733e615ee76dddbc7ed83daae2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023e615ee76dddbc7ed83daae2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513e615ee76dddbc7ed83daae2",
+                    "width": 64
+                }],
+                "name": "Transit Deluxe",
+                "release_date": "2008-01-23",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6UY5OAnMMgpjtYvuaUYsXf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6UY5OAnMMgpjtYvuaUYsXf"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 7,
+            "duration_ms": 255306,
+            "external_ids":
+            {
+                "isrc": "PHU010609715"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6jnNY7PMUy34o0c5IM6Hmt"
+            },
+            "id": "6jnNY7PMUy34o0c5IM6Hmt",
+            "name": "Sa Bingit Ng Isang Paalam",
+            "popularity": 32,
+            "uri": "spotify:track:6jnNY7PMUy34o0c5IM6Hmt",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/69eae9e2fd2cc8c1d54cc8d8ecb2bf8e46697ea7?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "6QNCMk32z6FDxll7RpZhPR",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2732585b055b292b88141e67bb2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e022585b055b292b88141e67bb2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048512585b055b292b88141e67bb2",
+                    "width": 64
+                }],
+                "name": "Kung Ako ang Pumiling Tapusin Ito",
+                "release_date": "2022-01-12",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6QNCMk32z6FDxll7RpZhPR",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6QNCMk32z6FDxll7RpZhPR"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 226984,
+            "external_ids":
+            {
+                "isrc": "PHS112200004"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0rsq9y2WoCEPMOQzrYozOq"
+            },
+            "id": "0rsq9y2WoCEPMOQzrYozOq",
+            "name": "Kung Ako ang Pumiling Tapusin Ito",
+            "popularity": 29,
+            "uri": "spotify:track:0rsq9y2WoCEPMOQzrYozOq",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/147e4f976811a463adcf4e47519b5d24c1cff43f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6UY5OAnMMgpjtYvuaUYsXf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733e615ee76dddbc7ed83daae2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023e615ee76dddbc7ed83daae2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513e615ee76dddbc7ed83daae2",
+                    "width": 64
+                }],
+                "name": "Transit Deluxe",
+                "release_date": "2008-01-23",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6UY5OAnMMgpjtYvuaUYsXf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6UY5OAnMMgpjtYvuaUYsXf"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 16,
+            "duration_ms": 236626,
+            "external_ids":
+            {
+                "isrc": "PHu012216283"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4KVDPh29QnEf1ojW8zAxc4"
+            },
+            "id": "4KVDPh29QnEf1ojW8zAxc4",
+            "name": "Pasubali (Acoustic)",
+            "popularity": 33,
+            "uri": "spotify:track:4KVDPh29QnEf1ojW8zAxc4",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/6f39ae47043ba8ec9e91dd1f5e78d4235866f0a8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2Bls1Q0JICmDlZzeGkSctx",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27372c7e7e9504df18db1b0b82c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0272c7e7e9504df18db1b0b82c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485172c7e7e9504df18db1b0b82c",
+                    "width": 64
+                }],
+                "name": "Sponge Cola",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2Bls1Q0JICmDlZzeGkSctx",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2Bls1Q0JICmDlZzeGkSctx"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 9,
+            "duration_ms": 250693,
+            "external_ids":
+            {
+                "isrc": "FR6V82355143"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4pXtUCVSF4u6YDCnEHrG8w"
+            },
+            "id": "4pXtUCVSF4u6YDCnEHrG8w",
+            "name": "Wala Kang Katulad",
+            "popularity": 32,
+            "uri": "spotify:track:4pXtUCVSF4u6YDCnEHrG8w",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/337fc456c219a69851f9b5ce7a6b6cda28ade072?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6UY5OAnMMgpjtYvuaUYsXf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733e615ee76dddbc7ed83daae2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023e615ee76dddbc7ed83daae2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513e615ee76dddbc7ed83daae2",
+                    "width": 64
+                }],
+                "name": "Transit Deluxe",
+                "release_date": "2008-01-23",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6UY5OAnMMgpjtYvuaUYsXf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6UY5OAnMMgpjtYvuaUYsXf"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 3,
+            "duration_ms": 274906,
+            "external_ids":
+            {
+                "isrc": "PHU012216282"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3qlCpEVVP82GnjNIMF2AJT"
+            },
+            "id": "3qlCpEVVP82GnjNIMF2AJT",
+            "name": "Movie",
+            "popularity": 31,
+            "uri": "spotify:track:3qlCpEVVP82GnjNIMF2AJT",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/aa9219b9b5c079f8737f4b967fe7dd23dc1a4419?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "7bEJezFqr8lYkekBnvHnuX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273bd068cfda9dbc5605b614651",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02bd068cfda9dbc5605b614651",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851bd068cfda9dbc5605b614651",
+                    "width": 64
+                }],
+                "name": "Ultrablessed (Thank You Edition)",
+                "release_date": "2015-03-16",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7bEJezFqr8lYkekBnvHnuX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7bEJezFqr8lYkekBnvHnuX"
+                },
+                "total_tracks": 14
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 4,
+            "duration_ms": 277933,
+            "external_ids":
+            {
+                "isrc": "PHU011413078"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1jpxgjt5ddWwYm1usWs1H4"
+            },
+            "id": "1jpxgjt5ddWwYm1usWs1H4",
+            "name": "Iyong Iyong Iyo",
+            "popularity": 33,
+            "uri": "spotify:track:1jpxgjt5ddWwYm1usWs1H4",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/b2b4289e0d34cfb3ee74f02396eee826058a1e24?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "1szrFPJSRU2kaBbLQ177HO",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b2b80624c66c4ea6bfae0bb8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b2b80624c66c4ea6bfae0bb8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b2b80624c66c4ea6bfae0bb8",
+                    "width": 64
+                }],
+                "name": "In The End",
+                "release_date": "2023-07-19",
+                "release_date_precision": "day",
+                "uri": "spotify:album:1szrFPJSRU2kaBbLQ177HO",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/1szrFPJSRU2kaBbLQ177HO"
+                },
+                "total_tracks": 2
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 238415,
+            "external_ids":
+            {
+                "isrc": "PHS112300287"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/38xyoHhjbeuV3bGNTnDsNj"
+            },
+            "id": "38xyoHhjbeuV3bGNTnDsNj",
+            "name": "In The End",
+            "popularity": 22,
+            "uri": "spotify:track:38xyoHhjbeuV3bGNTnDsNj",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/a07c4749b00f7fa69abae7d360224df2043ed68e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "4FmwEgKgo853PWNydf3cP1",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b98810e62dbc321baef58379",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b98810e62dbc321baef58379",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b98810e62dbc321baef58379",
+                    "width": 64
+                }],
+                "name": "Hometown, Part 2",
+                "release_date": "2023-08-04",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4FmwEgKgo853PWNydf3cP1",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4FmwEgKgo853PWNydf3cP1"
+                },
+                "total_tracks": 19
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 8,
+            "duration_ms": 153833,
+            "external_ids":
+            {
+                "isrc": "PHS112100142"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7FzYVizryuL7fRXq7OpbOT"
+            },
+            "id": "7FzYVizryuL7fRXq7OpbOT",
+            "name": "Jairah",
+            "popularity": 24,
+            "uri": "spotify:track:7FzYVizryuL7fRXq7OpbOT",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/59874606e8f0d7681eaa509d074b92e539c687c9?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "4FmwEgKgo853PWNydf3cP1",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b98810e62dbc321baef58379",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b98810e62dbc321baef58379",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b98810e62dbc321baef58379",
+                    "width": 64
+                }],
+                "name": "Hometown, Part 2",
+                "release_date": "2023-08-04",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4FmwEgKgo853PWNydf3cP1",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4FmwEgKgo853PWNydf3cP1"
+                },
+                "total_tracks": 19
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 214992,
+            "external_ids":
+            {
+                "isrc": "PHS112200529"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3ESPmXll7gMnEyiPG491ZT"
+            },
+            "id": "3ESPmXll7gMnEyiPG491ZT",
+            "name": "Hometown",
+            "popularity": 24,
+            "uri": "spotify:track:3ESPmXll7gMnEyiPG491ZT",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/9ba005c0da58ecae7cb401363dc9f7a8470624f2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": true,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "4FmwEgKgo853PWNydf3cP1",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b98810e62dbc321baef58379",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b98810e62dbc321baef58379",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b98810e62dbc321baef58379",
+                    "width": 64
+                }],
+                "name": "Hometown, Part 2",
+                "release_date": "2023-08-04",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4FmwEgKgo853PWNydf3cP1",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4FmwEgKgo853PWNydf3cP1"
+                },
+                "total_tracks": 19
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 12,
+            "duration_ms": 228260,
+            "external_ids":
+            {
+                "isrc": "PHS112300257"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3M5nsNpNAW6UIQL9C0XclW"
+            },
+            "id": "3M5nsNpNAW6UIQL9C0XclW",
+            "name": "Champions",
+            "popularity": 23,
+            "uri": "spotify:track:3M5nsNpNAW6UIQL9C0XclW",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/044c784b07ce7619dd9af504d83ff5fcf79a20a9?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2iqICXBORRx2CfWew6G07q",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733f08c40d1389ebc971535718",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023f08c40d1389ebc971535718",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513f08c40d1389ebc971535718",
+                    "width": 64
+                }],
+                "name": "Araw Oras Tagpuan",
+                "release_date": "2011-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2iqICXBORRx2CfWew6G07q",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2iqICXBORRx2CfWew6G07q"
+                },
+                "total_tracks": 13
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 3,
+            "duration_ms": 279853,
+            "external_ids":
+            {
+                "isrc": "FR6V82355098"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6snFRlA06awWOWRPwhmxuB"
+            },
+            "id": "6snFRlA06awWOWRPwhmxuB",
+            "name": "Regal",
+            "popularity": 31,
+            "uri": "spotify:track:6snFRlA06awWOWRPwhmxuB",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/bfdeb2dc892ed59c613765d289342de8017b8170?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "7D5yqydARUaO7uX6yZGHTH",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2732a7b7efd8fdde5b97068187e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e022a7b7efd8fdde5b97068187e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048512a7b7efd8fdde5b97068187e",
+                    "width": 64
+                }],
+                "name": "Alamat (MLBB 5th Anniversary Theme Song)",
+                "release_date": "2021-09-28",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7D5yqydARUaO7uX6yZGHTH",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7D5yqydARUaO7uX6yZGHTH"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 158186,
+            "external_ids":
+            {
+                "isrc": "PHS112100169"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7sehtmCE4WeJkDnkAfvDBD"
+            },
+            "id": "7sehtmCE4WeJkDnkAfvDBD",
+            "name": "Alamat (MLBB 5th Anniversary Theme Song)",
+            "popularity": 22,
+            "uri": "spotify:track:7sehtmCE4WeJkDnkAfvDBD",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/efaae51cfcba6dd6b3ef740f278f6aafa061d0b2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "7bEJezFqr8lYkekBnvHnuX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273bd068cfda9dbc5605b614651",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02bd068cfda9dbc5605b614651",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851bd068cfda9dbc5605b614651",
+                    "width": 64
+                }],
+                "name": "Ultrablessed (Thank You Edition)",
+                "release_date": "2015-03-16",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7bEJezFqr8lYkekBnvHnuX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7bEJezFqr8lYkekBnvHnuX"
+                },
+                "total_tracks": 14
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 11,
+            "duration_ms": 602293,
+            "external_ids":
+            {
+                "isrc": "PHU011312825"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1mrA0mTMEs15098U35f0SZ"
+            },
+            "id": "1mrA0mTMEs15098U35f0SZ",
+            "name": "Segundo \/ Dragonfly",
+            "popularity": 26,
+            "uri": "spotify:track:1mrA0mTMEs15098U35f0SZ",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/36e8625026ea7fc14c86dfd61070895327727b47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "3KyzsXSf2iFxRJtTq6BABy",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2732923ce6c9f513e004ded421a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e022923ce6c9f513e004ded421a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048512923ce6c9f513e004ded421a",
+                    "width": 64
+                }],
+                "name": "Sinag Tala",
+                "release_date": "2016-08-19",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3KyzsXSf2iFxRJtTq6BABy",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3KyzsXSf2iFxRJtTq6BABy"
+                },
+                "total_tracks": 11
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 10,
+            "duration_ms": 180213,
+            "external_ids":
+            {
+                "isrc": "PHU011615423"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/2ZiawfH3IkUjSPcNSc1xq1"
+            },
+            "id": "2ZiawfH3IkUjSPcNSc1xq1",
+            "name": "Bahaghari",
+            "popularity": 30,
+            "uri": "spotify:track:2ZiawfH3IkUjSPcNSc1xq1",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/899e3bd7011e0f1683d370d42c52d38e058924ee?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "4FmwEgKgo853PWNydf3cP1",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b98810e62dbc321baef58379",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b98810e62dbc321baef58379",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b98810e62dbc321baef58379",
+                    "width": 64
+                }],
+                "name": "Hometown, Part 2",
+                "release_date": "2023-08-04",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4FmwEgKgo853PWNydf3cP1",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4FmwEgKgo853PWNydf3cP1"
+                },
+                "total_tracks": 19
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 10,
+            "duration_ms": 252531,
+            "external_ids":
+            {
+                "isrc": "PHS112200531"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3rS1GDBb8KMUFP8bst5dok"
+            },
+            "id": "3rS1GDBb8KMUFP8bst5dok",
+            "name": "Signal #4",
+            "popularity": 22,
+            "uri": "spotify:track:3rS1GDBb8KMUFP8bst5dok",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/6272bfad5d14afefb3dc7bdf47cad4c9e2c44ffb?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "3ganbkYB5cDSLuXCCn40e3",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739d20bb2cbf69cfb3485d0024",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029d20bb2cbf69cfb3485d0024",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048519d20bb2cbf69cfb3485d0024",
+                    "width": 64
+                }],
+                "name": "Sea of Lights",
+                "release_date": "2019-05-10",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3ganbkYB5cDSLuXCCn40e3",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3ganbkYB5cDSLuXCCn40e3"
+                },
+                "total_tracks": 8
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/3WqnLipraJrtfa6akDued9"
+                },
+                "id": "3WqnLipraJrtfa6akDued9",
+                "name": "Karylle",
+                "type": "artist",
+                "uri": "spotify:artist:3WqnLipraJrtfa6akDued9"
+            }],
+            "disc_number": 1,
+            "track_number": 7,
+            "duration_ms": 273624,
+            "external_ids":
+            {
+                "isrc": "PHU011915802"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/5ZuGCV4sechmu8ATFoZMOB"
+            },
+            "id": "5ZuGCV4sechmu8ATFoZMOB",
+            "name": "Promises",
+            "popularity": 25,
+            "uri": "spotify:track:5ZuGCV4sechmu8ATFoZMOB",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/d906c1baaf463a50c4309600f5330219953e378d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2iqICXBORRx2CfWew6G07q",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733f08c40d1389ebc971535718",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023f08c40d1389ebc971535718",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513f08c40d1389ebc971535718",
+                    "width": 64
+                }],
+                "name": "Araw Oras Tagpuan",
+                "release_date": "2011-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2iqICXBORRx2CfWew6G07q",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2iqICXBORRx2CfWew6G07q"
+                },
+                "total_tracks": 13
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 244800,
+            "external_ids":
+            {
+                "isrc": "FR6V82355097"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4DR6tFclWJszXzZ88q3Ka0"
+            },
+            "id": "4DR6tFclWJszXzZ88q3Ka0",
+            "name": "Stargazer",
+            "popularity": 29,
+            "uri": "spotify:track:4DR6tFclWJszXzZ88q3Ka0",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/2f84b92127676fb7fd0b6ba287602830cda9087b?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "3ganbkYB5cDSLuXCCn40e3",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739d20bb2cbf69cfb3485d0024",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029d20bb2cbf69cfb3485d0024",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048519d20bb2cbf69cfb3485d0024",
+                    "width": 64
+                }],
+                "name": "Sea of Lights",
+                "release_date": "2019-05-10",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3ganbkYB5cDSLuXCCn40e3",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3ganbkYB5cDSLuXCCn40e3"
+                },
+                "total_tracks": 8
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 3,
+            "duration_ms": 219874,
+            "external_ids":
+            {
+                "isrc": "PHU011915798"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1ATEzXuBPbruLpAlmq9alj"
+            },
+            "id": "1ATEzXuBPbruLpAlmq9alj",
+            "name": "Meron Ba?",
+            "popularity": 23,
+            "uri": "spotify:track:1ATEzXuBPbruLpAlmq9alj",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/60e5451cb08e3a8776c0623ec240c9fe2817ed34?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "7bEJezFqr8lYkekBnvHnuX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273bd068cfda9dbc5605b614651",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02bd068cfda9dbc5605b614651",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851bd068cfda9dbc5605b614651",
+                    "width": 64
+                }],
+                "name": "Ultrablessed (Thank You Edition)",
+                "release_date": "2015-03-16",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7bEJezFqr8lYkekBnvHnuX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7bEJezFqr8lYkekBnvHnuX"
+                },
+                "total_tracks": 14
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 9,
+            "duration_ms": 280493,
+            "external_ids":
+            {
+                "isrc": "PHU011413083"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/2qJaaATaYZqkR2JJbCUuJK"
+            },
+            "id": "2qJaaATaYZqkR2JJbCUuJK",
+            "name": "Singapore Sling (Dahil Kilala Na Kita)",
+            "popularity": 30,
+            "uri": "spotify:track:2qJaaATaYZqkR2JJbCUuJK",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/58865e5342e3d760251022459cd9a5c5d705265c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "4FmwEgKgo853PWNydf3cP1",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b98810e62dbc321baef58379",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b98810e62dbc321baef58379",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b98810e62dbc321baef58379",
+                    "width": 64
+                }],
+                "name": "Hometown, Part 2",
+                "release_date": "2023-08-04",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4FmwEgKgo853PWNydf3cP1",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4FmwEgKgo853PWNydf3cP1"
+                },
+                "total_tracks": 19
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 4,
+            "duration_ms": 219692,
+            "external_ids":
+            {
+                "isrc": "PHS112000133"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0Hnz9rIiHUVv0cxpLtxOPt"
+            },
+            "id": "0Hnz9rIiHUVv0cxpLtxOPt",
+            "name": "Lumipas Ang Tag-araw",
+            "popularity": 22,
+            "uri": "spotify:track:0Hnz9rIiHUVv0cxpLtxOPt",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/df28730d74002e89cc639d0bf2ef0fb5b33b502d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2iqICXBORRx2CfWew6G07q",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733f08c40d1389ebc971535718",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023f08c40d1389ebc971535718",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513f08c40d1389ebc971535718",
+                    "width": 64
+                }],
+                "name": "Araw Oras Tagpuan",
+                "release_date": "2011-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2iqICXBORRx2CfWew6G07q",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2iqICXBORRx2CfWew6G07q"
+                },
+                "total_tracks": 13
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 12,
+            "duration_ms": 203000,
+            "external_ids":
+            {
+                "isrc": "FR6V82355107"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0aiGECHltZWRGCiZMZRaii"
+            },
+            "id": "0aiGECHltZWRGCiZMZRaii",
+            "name": "Araw Oras Tagpuan",
+            "popularity": 28,
+            "uri": "spotify:track:0aiGECHltZWRGCiZMZRaii",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/3a3e2abaaad55710cbed2e0d586e90d3af1908c4?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "compilation",
+                "id": "01BA5hrU0qH1f8KXN816Sp",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273fa9ecbbb7d831da7bd9e4df6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02fa9ecbbb7d831da7bd9e4df6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851fa9ecbbb7d831da7bd9e4df6",
+                    "width": 64
+                }],
+                "name": "Pinoy Biggie Hits, Vol. 2",
+                "release_date": "2007-07-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:01BA5hrU0qH1f8KXN816Sp",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/01BA5hrU0qH1f8KXN816Sp"
+                },
+                "total_tracks": 16
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 179647,
+            "external_ids":
+            {
+                "isrc": "PHS090702451"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3mIb0m6PaRCvlViqpmQ4qK"
+            },
+            "id": "3mIb0m6PaRCvlViqpmQ4qK",
+            "name": "Tuloy Pa Rin",
+            "popularity": 23,
+            "uri": "spotify:track:3mIb0m6PaRCvlViqpmQ4qK",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/b1415d9889de5aba2b70838095974e4284506e2c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "1IS758Pj1rIDPBqqDvbUUu",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2734dcdd1bfe5167b23f0b716ce",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e024dcdd1bfe5167b23f0b716ce",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048514dcdd1bfe5167b23f0b716ce",
+                    "width": 64
+                }],
+                "name": "District",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:1IS758Pj1rIDPBqqDvbUUu",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/1IS758Pj1rIDPBqqDvbUUu"
+                },
+                "total_tracks": 7
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 230480,
+            "external_ids":
+            {
+                "isrc": "FR6V82355109"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7bgsb6q6djWGd8Lx0haCP5"
+            },
+            "id": "7bgsb6q6djWGd8Lx0haCP5",
+            "name": "Mahaba Pa Ang Gabi",
+            "popularity": 27,
+            "uri": "spotify:track:7bgsb6q6djWGd8Lx0haCP5",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/6a1a9ac2bbb58716c28d1aa2acb0931fe73b80be?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "3ganbkYB5cDSLuXCCn40e3",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739d20bb2cbf69cfb3485d0024",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029d20bb2cbf69cfb3485d0024",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048519d20bb2cbf69cfb3485d0024",
+                    "width": 64
+                }],
+                "name": "Sea of Lights",
+                "release_date": "2019-05-10",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3ganbkYB5cDSLuXCCn40e3",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3ganbkYB5cDSLuXCCn40e3"
+                },
+                "total_tracks": 8
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 270000,
+            "external_ids":
+            {
+                "isrc": "PHU011915797"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6egFu9ISFZwiAoOfGsTWxV"
+            },
+            "id": "6egFu9ISFZwiAoOfGsTWxV",
+            "name": "Manila Bay",
+            "popularity": 19,
+            "uri": "spotify:track:6egFu9ISFZwiAoOfGsTWxV",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-03T04:50:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/"
+            },
+            "id": "",
+            "type": "user",
+            "uri": "spotify:user:"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/edd22b47b9ea09a8af23a5ed896c884880159cc0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2Bls1Q0JICmDlZzeGkSctx",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27372c7e7e9504df18db1b0b82c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0272c7e7e9504df18db1b0b82c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485172c7e7e9504df18db1b0b82c",
+                    "width": 64
+                }],
+                "name": "Sponge Cola",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2Bls1Q0JICmDlZzeGkSctx",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                    },
+                    "id": "1tXFYQZSAswt4JLB42lpye",
+                    "name": "Sponge Cola",
+                    "type": "artist",
+                    "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2Bls1Q0JICmDlZzeGkSctx"
+                },
+                "total_tracks": 18
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1tXFYQZSAswt4JLB42lpye"
+                },
+                "id": "1tXFYQZSAswt4JLB42lpye",
+                "name": "Sponge Cola",
+                "type": "artist",
+                "uri": "spotify:artist:1tXFYQZSAswt4JLB42lpye"
+            }],
+            "disc_number": 2,
+            "track_number": 3,
+            "duration_ms": 229000,
+            "external_ids":
+            {
+                "isrc": "FR6V82355151"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7HnM8e8lMw3pT7sU2tJjnl"
+            },
+            "id": "7HnM8e8lMw3pT7sU2tJjnl",
+            "name": "Di Na Mababawi (Band Version)",
+            "popularity": 29,
+            "uri": "spotify:track:7HnM8e8lMw3pT7sU2tJjnl",
+            "is_local": false
+        }
+    }]
+}

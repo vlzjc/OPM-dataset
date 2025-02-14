@@ -1,0 +1,2716 @@
+{
+    "limit": 100,
+    "next": null,
+    "offset": 300,
+    "previous": true,
+    "total": 326,
+    "items": [
+    {
+        "added_at": "2023-03-04T18:27:49Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/d0d10c6858eed9f36a9a1278fdbbdad28173b56c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "3Z4BWNvF04hL001S9h2qTf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2732c33621b55d406791ec39a45",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e022c33621b55d406791ec39a45",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048512c33621b55d406791ec39a45",
+                    "width": 64
+                }],
+                "name": "Habilin",
+                "release_date": "2021-04-09",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3Z4BWNvF04hL001S9h2qTf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/2AcrkelR47hApTQirQhv6F"
+                    },
+                    "id": "2AcrkelR47hApTQirQhv6F",
+                    "name": "Tothapi",
+                    "type": "artist",
+                    "uri": "spotify:artist:2AcrkelR47hApTQirQhv6F"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3Z4BWNvF04hL001S9h2qTf"
+                },
+                "total_tracks": 3
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/2AcrkelR47hApTQirQhv6F"
+                },
+                "id": "2AcrkelR47hApTQirQhv6F",
+                "name": "Tothapi",
+                "type": "artist",
+                "uri": "spotify:artist:2AcrkelR47hApTQirQhv6F"
+            }],
+            "disc_number": 1,
+            "track_number": 3,
+            "duration_ms": 313703,
+            "external_ids":
+            {
+                "isrc": "QZES72198712"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4JuyQ2ZWg7zPhi9N4TfZlj"
+            },
+            "id": "4rzk0LiQvmvYILQn3jLU6w",
+            "name": "Dagat",
+            "popularity": 0,
+            "uri": "spotify:track:4rzk0LiQvmvYILQn3jLU6w",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/4JuyQ2ZWg7zPhi9N4TfZlj"
+                },
+                "id": "4JuyQ2ZWg7zPhi9N4TfZlj",
+                "type": "track",
+                "uri": "spotify:track:4JuyQ2ZWg7zPhi9N4TfZlj"
+            }
+        }
+    },
+    {
+        "added_at": "2020-10-22T22:14:27Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/796a54bbcfef7a6e42e910d0faf164e6b5965007?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "6mf9QqYFZbTGWgWcaUkfuX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737bb250fdc6dbf2db1f8b5651",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e027bb250fdc6dbf2db1f8b5651",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048517bb250fdc6dbf2db1f8b5651",
+                    "width": 64
+                }],
+                "name": "Giliw",
+                "release_date": "2020-10-23",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6mf9QqYFZbTGWgWcaUkfuX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/6AXrQtTRsMfXOo2y2BisTh"
+                    },
+                    "id": "6AXrQtTRsMfXOo2y2BisTh",
+                    "name": "Vanessa Mendoza",
+                    "type": "artist",
+                    "uri": "spotify:artist:6AXrQtTRsMfXOo2y2BisTh"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6mf9QqYFZbTGWgWcaUkfuX"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/6AXrQtTRsMfXOo2y2BisTh"
+                },
+                "id": "6AXrQtTRsMfXOo2y2BisTh",
+                "name": "Vanessa Mendoza",
+                "type": "artist",
+                "uri": "spotify:artist:6AXrQtTRsMfXOo2y2BisTh"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 192298,
+            "external_ids":
+            {
+                "isrc": "PHV032011218"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/098TPxlZkZ1lhqxP9GW48k"
+            },
+            "id": "5PnxQ4z1QgFBcBOomuu2Sl",
+            "name": "Giliw",
+            "popularity": 0,
+            "uri": "spotify:track:5PnxQ4z1QgFBcBOomuu2Sl",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/098TPxlZkZ1lhqxP9GW48k"
+                },
+                "id": "098TPxlZkZ1lhqxP9GW48k",
+                "type": "track",
+                "uri": "spotify:track:098TPxlZkZ1lhqxP9GW48k"
+            }
+        }
+    },
+    {
+        "added_at": "2024-10-17T18:01:18Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/a1a82385e4db4ac7d14b6b1c0d9f1b87ec589021?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "24DmFXTGP4brht4hlSBrZU",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733933b2c37ef82b7741a34d75",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023933b2c37ef82b7741a34d75",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513933b2c37ef82b7741a34d75",
+                    "width": 64
+                }],
+                "name": "Huling Araw",
+                "release_date": "2024-10-18",
+                "release_date_precision": "day",
+                "uri": "spotify:album:24DmFXTGP4brht4hlSBrZU",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/24DmFXTGP4brht4hlSBrZU"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 212876,
+            "external_ids":
+            {
+                "isrc": "QZWFL2459093"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0WuTFMJsWGWQNzvnsUcdxr"
+            },
+            "id": "0WuTFMJsWGWQNzvnsUcdxr",
+            "name": "Huling Araw",
+            "popularity": 44,
+            "uri": "spotify:track:0WuTFMJsWGWQNzvnsUcdxr",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2022-08-29T23:28:11Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/02e24e6fa4060181a36d3aa6dad4558fa6db3513?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "228sSzhi209BSj99oilvKy",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273f1d1ac55855716c20a8de845",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02f1d1ac55855716c20a8de845",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851f1d1ac55855716c20a8de845",
+                    "width": 64
+                }],
+                "name": "Swerte",
+                "release_date": "2022-04-29",
+                "release_date_precision": "day",
+                "uri": "spotify:album:228sSzhi209BSj99oilvKy",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/228sSzhi209BSj99oilvKy"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 247211,
+            "external_ids":
+            {
+                "isrc": "QZHN62239455"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7h5p4QArJqYFH2btghw0vP"
+            },
+            "id": "7h5p4QArJqYFH2btghw0vP",
+            "name": "Swerte",
+            "popularity": 36,
+            "uri": "spotify:track:7h5p4QArJqYFH2btghw0vP",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2023-06-17T00:15:57Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/79b5c931c0b071bedfa699c73ddc66e76aa6abf7?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "5M8uouaImgL3TsIHlU9OFF",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273923d963f9a97e6eb33d2a37d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02923d963f9a97e6eb33d2a37d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851923d963f9a97e6eb33d2a37d",
+                    "width": 64
+                }],
+                "name": "Salamin",
+                "release_date": "2023-05-26",
+                "release_date_precision": "day",
+                "uri": "spotify:album:5M8uouaImgL3TsIHlU9OFF",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/5M8uouaImgL3TsIHlU9OFF"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 420336,
+            "external_ids":
+            {
+                "isrc": "QZK6L2386644"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0PJuLn6Kl3rIIrHROsunCK"
+            },
+            "id": "0PJuLn6Kl3rIIrHROsunCK",
+            "name": "Salamin",
+            "popularity": 24,
+            "uri": "spotify:track:0PJuLn6Kl3rIIrHROsunCK",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2023-08-16T14:42:10Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/652fe31cc0ec3bf7573bd6718f6db743c3a805ec?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "0a0UdCKsKEGjFGBi9mGAMe",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735dbc328f17858f644b8d971a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e025dbc328f17858f644b8d971a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048515dbc328f17858f644b8d971a",
+                    "width": 64
+                }],
+                "name": "Kisame",
+                "release_date": "2023-02-10",
+                "release_date_precision": "day",
+                "uri": "spotify:album:0a0UdCKsKEGjFGBi9mGAMe",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/0XRPxTyrrVeDXLt6Wxw4UD"
+                    },
+                    "id": "0XRPxTyrrVeDXLt6Wxw4UD",
+                    "name": "rhodessa",
+                    "type": "artist",
+                    "uri": "spotify:artist:0XRPxTyrrVeDXLt6Wxw4UD"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/0a0UdCKsKEGjFGBi9mGAMe"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/0XRPxTyrrVeDXLt6Wxw4UD"
+                },
+                "id": "0XRPxTyrrVeDXLt6Wxw4UD",
+                "name": "rhodessa",
+                "type": "artist",
+                "uri": "spotify:artist:0XRPxTyrrVeDXLt6Wxw4UD"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 212608,
+            "external_ids":
+            {
+                "isrc": "PHV032312199"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4XSIv5hJzP6kEQqsLli1eE"
+            },
+            "id": "4XSIv5hJzP6kEQqsLli1eE",
+            "name": "Kisame",
+            "popularity": 69,
+            "uri": "spotify:track:4XSIv5hJzP6kEQqsLli1eE",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-10-29T16:43:15Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/e15e685b3d929bb2c7d3640eae4bdad89ef0fa3d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "51Vzo7JDGZNoQriQk3wx4u",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27337f40a1be37fe12e57a1d16f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0237f40a1be37fe12e57a1d16f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485137f40a1be37fe12e57a1d16f",
+                    "width": 64
+                }],
+                "name": "Panata",
+                "release_date": "2024-10-30",
+                "release_date_precision": "day",
+                "uri": "spotify:album:51Vzo7JDGZNoQriQk3wx4u",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/2AcrkelR47hApTQirQhv6F"
+                    },
+                    "id": "2AcrkelR47hApTQirQhv6F",
+                    "name": "Tothapi",
+                    "type": "artist",
+                    "uri": "spotify:artist:2AcrkelR47hApTQirQhv6F"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/51Vzo7JDGZNoQriQk3wx4u"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/2AcrkelR47hApTQirQhv6F"
+                },
+                "id": "2AcrkelR47hApTQirQhv6F",
+                "name": "Tothapi",
+                "type": "artist",
+                "uri": "spotify:artist:2AcrkelR47hApTQirQhv6F"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 275893,
+            "external_ids":
+            {
+                "isrc": "PHS112400783"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/5o5rOj568TLbuwXvwA9WIZ"
+            },
+            "id": "5o5rOj568TLbuwXvwA9WIZ",
+            "name": "Panata",
+            "popularity": 52,
+            "uri": "spotify:track:5o5rOj568TLbuwXvwA9WIZ",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-10-21T18:39:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/36a6df97bdb58062980d2c84fe062b85dfcf2361?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "6D4T5WFYpKOD9lRNO8Dyoj",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273bfcd7cb796ea0803eec10943",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02bfcd7cb796ea0803eec10943",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851bfcd7cb796ea0803eec10943",
+                    "width": 64
+                }],
+                "name": "Ayoko Na Maging Single",
+                "release_date": "2024-02-02",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6D4T5WFYpKOD9lRNO8Dyoj",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/2j8GyBo2i98iF3fPmMQris"
+                    },
+                    "id": "2j8GyBo2i98iF3fPmMQris",
+                    "name": "Poy Labartinos",
+                    "type": "artist",
+                    "uri": "spotify:artist:2j8GyBo2i98iF3fPmMQris"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6D4T5WFYpKOD9lRNO8Dyoj"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/2j8GyBo2i98iF3fPmMQris"
+                },
+                "id": "2j8GyBo2i98iF3fPmMQris",
+                "name": "Poy Labartinos",
+                "type": "artist",
+                "uri": "spotify:artist:2j8GyBo2i98iF3fPmMQris"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 228086,
+            "external_ids":
+            {
+                "isrc": "NL8RL2400875"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/5Vta4sfOrj9fTbNZXmjM2i"
+            },
+            "id": "5Vta4sfOrj9fTbNZXmjM2i",
+            "name": "Ayoko Na Maging Single",
+            "popularity": 37,
+            "uri": "spotify:track:5Vta4sfOrj9fTbNZXmjM2i",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2023-08-16T14:42:57Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/7683e88096dc5e460448f40b176cb550004d3bfd?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "0PT2SWVIzm482N0NfhFB1F",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273f6ae78135455971f88428e1b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02f6ae78135455971f88428e1b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851f6ae78135455971f88428e1b",
+                    "width": 64
+                }],
+                "name": "so this is what love looks like",
+                "release_date": "2023-07-21",
+                "release_date_precision": "day",
+                "uri": "spotify:album:0PT2SWVIzm482N0NfhFB1F",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/0PT2SWVIzm482N0NfhFB1F"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/17btkvYK2ja6m1PqPVhTML"
+                },
+                "id": "17btkvYK2ja6m1PqPVhTML",
+                "name": "Aj Diaz",
+                "type": "artist",
+                "uri": "spotify:artist:17btkvYK2ja6m1PqPVhTML"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 238574,
+            "external_ids":
+            {
+                "isrc": "QZNWT2374709"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/62U57gHFoz9C162OzvKr2S"
+            },
+            "id": "62U57gHFoz9C162OzvKr2S",
+            "name": "so this is what love looks like",
+            "popularity": 29,
+            "uri": "spotify:track:62U57gHFoz9C162OzvKr2S",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2023-10-05T16:02:17Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/2ee93e74bb4133cb3f6615ce2436650337b67fbb?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "7lFXMLZFNmm0CAJ11iFEQ4",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2731591acf379c0b6513114c993",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e021591acf379c0b6513114c993",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048511591acf379c0b6513114c993",
+                    "width": 64
+                }],
+                "name": "Nauupos",
+                "release_date": "2023-10-06",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7lFXMLZFNmm0CAJ11iFEQ4",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7lFXMLZFNmm0CAJ11iFEQ4"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 352983,
+            "external_ids":
+            {
+                "isrc": "QZTB22323713"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7dYth29KdWodmOyLfET13W"
+            },
+            "id": "7dYth29KdWodmOyLfET13W",
+            "name": "Nauupos",
+            "popularity": 49,
+            "uri": "spotify:track:7dYth29KdWodmOyLfET13W",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2023-08-17T21:52:09Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/f669672eaf72320fcc840f5178e714f3d0b2af9c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "71FYpyw8Y7g2QwlgXfH91N",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273db5d4dd3939473784d242c1c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02db5d4dd3939473784d242c1c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851db5d4dd3939473784d242c1c",
+                    "width": 64
+                }],
+                "name": "Hello",
+                "release_date": "2023-08-17",
+                "release_date_precision": "day",
+                "uri": "spotify:album:71FYpyw8Y7g2QwlgXfH91N",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/71FYpyw8Y7g2QwlgXfH91N"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 168742,
+            "external_ids":
+            {
+                "isrc": "QZNWZ2393997"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1p8iH7PjJKwQDslqywUKou"
+            },
+            "id": "1p8iH7PjJKwQDslqywUKou",
+            "name": "Hello",
+            "popularity": 35,
+            "uri": "spotify:track:1p8iH7PjJKwQDslqywUKou",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2023-08-16T14:42:34Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/61063770e91656bcb023d32f3675c58326891070?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "1nDqiuWaIdg3553bRee5bA",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739bf3be1caedfcabad7d27182",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029bf3be1caedfcabad7d27182",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048519bf3be1caedfcabad7d27182",
+                    "width": 64
+                }],
+                "name": "panaginip",
+                "release_date": "2019-12-18",
+                "release_date_precision": "day",
+                "uri": "spotify:album:1nDqiuWaIdg3553bRee5bA",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1CFjJMSXKmctvTXBA6uQkE"
+                    },
+                    "id": "1CFjJMSXKmctvTXBA6uQkE",
+                    "name": "iluna",
+                    "type": "artist",
+                    "uri": "spotify:artist:1CFjJMSXKmctvTXBA6uQkE"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/1nDqiuWaIdg3553bRee5bA"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1CFjJMSXKmctvTXBA6uQkE"
+                },
+                "id": "1CFjJMSXKmctvTXBA6uQkE",
+                "name": "iluna",
+                "type": "artist",
+                "uri": "spotify:artist:1CFjJMSXKmctvTXBA6uQkE"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 332406,
+            "external_ids":
+            {
+                "isrc": "AUBEC1937340"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1AuxZd50Dpaz0cCWphYryh"
+            },
+            "id": "1AuxZd50Dpaz0cCWphYryh",
+            "name": "panaginip",
+            "popularity": 60,
+            "uri": "spotify:track:1AuxZd50Dpaz0cCWphYryh",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2023-10-06T14:48:19Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/c92fb22e41cd303e8185e30b50d4da14c230730c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "35Ymn01t4BaTUi9ssikZgq",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273c8cc9237a4f6fb1fb7fb849d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02c8cc9237a4f6fb1fb7fb849d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851c8cc9237a4f6fb1fb7fb849d",
+                    "width": 64
+                }],
+                "name": "Santigwar",
+                "release_date": "2022-02-16",
+                "release_date_precision": "day",
+                "uri": "spotify:album:35Ymn01t4BaTUi9ssikZgq",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1UwnrHfh8Kd8Y8Ax8a3qWy"
+                    },
+                    "id": "1UwnrHfh8Kd8Y8Ax8a3qWy",
+                    "name": "dwta",
+                    "type": "artist",
+                    "uri": "spotify:artist:1UwnrHfh8Kd8Y8Ax8a3qWy"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/35Ymn01t4BaTUi9ssikZgq"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1UwnrHfh8Kd8Y8Ax8a3qWy"
+                },
+                "id": "1UwnrHfh8Kd8Y8Ax8a3qWy",
+                "name": "dwta",
+                "type": "artist",
+                "uri": "spotify:artist:1UwnrHfh8Kd8Y8Ax8a3qWy"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 192857,
+            "external_ids":
+            {
+                "isrc": "PHS112200025"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6laDeljiaZLwipS49NsvNY"
+            },
+            "id": "6laDeljiaZLwipS49NsvNY",
+            "name": "Santigwar",
+            "popularity": 39,
+            "uri": "spotify:track:6laDeljiaZLwipS49NsvNY",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2023-11-03T01:51:40Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/a096dddd0b715af4728496be8058489b18a3b45c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "6j2KEPkeAxK5tGDWdZjO6A",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2736d0029860e6d0d5033f6f67e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e026d0029860e6d0d5033f6f67e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048516d0029860e6d0d5033f6f67e",
+                    "width": 64
+                }],
+                "name": "Bakit Ako",
+                "release_date": "2023-11-03",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6j2KEPkeAxK5tGDWdZjO6A",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1idIljoowOkmOMQcIWkihR"
+                    },
+                    "id": "1idIljoowOkmOMQcIWkihR",
+                    "name": "Joseph John",
+                    "type": "artist",
+                    "uri": "spotify:artist:1idIljoowOkmOMQcIWkihR"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6j2KEPkeAxK5tGDWdZjO6A"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1idIljoowOkmOMQcIWkihR"
+                },
+                "id": "1idIljoowOkmOMQcIWkihR",
+                "name": "Joseph John",
+                "type": "artist",
+                "uri": "spotify:artist:1idIljoowOkmOMQcIWkihR"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 237160,
+            "external_ids":
+            {
+                "isrc": "QZTBB2384647"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1eXyuqt1ZmMtninsCPVg8Y"
+            },
+            "id": "1eXyuqt1ZmMtninsCPVg8Y",
+            "name": "Bakit Ako",
+            "popularity": 34,
+            "uri": "spotify:track:1eXyuqt1ZmMtninsCPVg8Y",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2023-08-16T14:42:21Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/21f081760312cb7f13e426a1a2d832a8bf244811?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "07p7jUJyKz9qVwieHNpxs8",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273da2677e1e7f60e546a9c3583",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02da2677e1e7f60e546a9c3583",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851da2677e1e7f60e546a9c3583",
+                    "width": 64
+                }],
+                "name": "Nahuhulog",
+                "release_date": "2022-05-13",
+                "release_date_precision": "day",
+                "uri": "spotify:album:07p7jUJyKz9qVwieHNpxs8",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/6EigliA66uumHSob7cOG1y"
+                    },
+                    "id": "6EigliA66uumHSob7cOG1y",
+                    "name": "Jed Baruelo",
+                    "type": "artist",
+                    "uri": "spotify:artist:6EigliA66uumHSob7cOG1y"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/07p7jUJyKz9qVwieHNpxs8"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/6EigliA66uumHSob7cOG1y"
+                },
+                "id": "6EigliA66uumHSob7cOG1y",
+                "name": "Jed Baruelo",
+                "type": "artist",
+                "uri": "spotify:artist:6EigliA66uumHSob7cOG1y"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 227298,
+            "external_ids":
+            {
+                "isrc": "QZHNA2256807"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0R6lC6F082eap1AJd8W54d"
+            },
+            "id": "3PX9O44UwLIujHWDuVtWW5",
+            "name": "Nahuhulog",
+            "popularity": 0,
+            "uri": "spotify:track:3PX9O44UwLIujHWDuVtWW5",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/0R6lC6F082eap1AJd8W54d"
+                },
+                "id": "0R6lC6F082eap1AJd8W54d",
+                "type": "track",
+                "uri": "spotify:track:0R6lC6F082eap1AJd8W54d"
+            }
+        }
+    },
+    {
+        "added_at": "2024-01-17T22:59:30Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/3de41ccab7315ccf5cb7927dde3953c802b2e09d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "6h5u4ltmZFyAX6JggL8oI3",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2735474cfc65da9b08bbf63c8f3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e025474cfc65da9b08bbf63c8f3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048515474cfc65da9b08bbf63c8f3",
+                    "width": 64
+                }],
+                "name": "Broken String",
+                "release_date": "2024-01-12",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6h5u4ltmZFyAX6JggL8oI3",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6h5u4ltmZFyAX6JggL8oI3"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 187121,
+            "external_ids":
+            {
+                "isrc": "QZFYX2499078"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6z5N0OC5P1vSsHy6OIinaa"
+            },
+            "id": "6z5N0OC5P1vSsHy6OIinaa",
+            "name": "Broken String",
+            "popularity": 32,
+            "uri": "spotify:track:6z5N0OC5P1vSsHy6OIinaa",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-01-17T23:00:55Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/15c2d1d714bf74d76d310980e4c903a1d54024eb?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "4IO4IBKrCHtJVckqsdH6XH",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2734dfe438c126e581409c45481",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e024dfe438c126e581409c45481",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048514dfe438c126e581409c45481",
+                    "width": 64
+                }],
+                "name": "Palagi",
+                "release_date": "2023-07-06",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4IO4IBKrCHtJVckqsdH6XH",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7LvDTuFCBv08xm6u1pOMK0"
+                    },
+                    "id": "7LvDTuFCBv08xm6u1pOMK0",
+                    "name": "TJ Monterde",
+                    "type": "artist",
+                    "uri": "spotify:artist:7LvDTuFCBv08xm6u1pOMK0"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4IO4IBKrCHtJVckqsdH6XH"
+                },
+                "total_tracks": 2
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7LvDTuFCBv08xm6u1pOMK0"
+                },
+                "id": "7LvDTuFCBv08xm6u1pOMK0",
+                "name": "TJ Monterde",
+                "type": "artist",
+                "uri": "spotify:artist:7LvDTuFCBv08xm6u1pOMK0"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 218051,
+            "external_ids":
+            {
+                "isrc": "NLRD52121324"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0sqnYgWOw9DMc6jRgkcB2m"
+            },
+            "id": "0sqnYgWOw9DMc6jRgkcB2m",
+            "name": "Palagi",
+            "popularity": 65,
+            "uri": "spotify:track:0sqnYgWOw9DMc6jRgkcB2m",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-10-21T22:47:19Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/4d4e1792b65b00cb467d5f7d0d79f9ac75d84aa6?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "6jM1p1mCSkZONn7tYFjc8D",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2731e9b05e6d647beb3cf195056",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e021e9b05e6d647beb3cf195056",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048511e9b05e6d647beb3cf195056",
+                    "width": 64
+                }],
+                "name": "Dahan Dahan",
+                "release_date": "2024-06-21",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6jM1p1mCSkZONn7tYFjc8D",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6jM1p1mCSkZONn7tYFjc8D"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 242763,
+            "external_ids":
+            {
+                "isrc": "QZNWT2406991"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7trAmBLuRdzxHDftBs8LwX"
+            },
+            "id": "7trAmBLuRdzxHDftBs8LwX",
+            "name": "Dahan Dahan",
+            "popularity": 47,
+            "uri": "spotify:track:7trAmBLuRdzxHDftBs8LwX",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-02T22:33:32Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/658f7929457867115fda0fbb32bf65e1acaee815?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "1M1Gi9L0gttpvARre57p7y",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b723b690f6f0cd534b8c33ec",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b723b690f6f0cd534b8c33ec",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b723b690f6f0cd534b8c33ec",
+                    "width": 64
+                }],
+                "name": "Christmas in Our Hearts",
+                "release_date": "1990-11-01",
+                "release_date_precision": "day",
+                "uri": "spotify:album:1M1Gi9L0gttpvARre57p7y",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/1EHAbA1GMYOfkh9ds9eNfS"
+                    },
+                    "id": "1EHAbA1GMYOfkh9ds9eNfS",
+                    "name": "Jose Mari Chan",
+                    "type": "artist",
+                    "uri": "spotify:artist:1EHAbA1GMYOfkh9ds9eNfS"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/1M1Gi9L0gttpvARre57p7y"
+                },
+                "total_tracks": 16
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1EHAbA1GMYOfkh9ds9eNfS"
+                },
+                "id": "1EHAbA1GMYOfkh9ds9eNfS",
+                "name": "Jose Mari Chan",
+                "type": "artist",
+                "uri": "spotify:artist:1EHAbA1GMYOfkh9ds9eNfS"
+            }],
+            "disc_number": 1,
+            "track_number": 4,
+            "duration_ms": 207000,
+            "external_ids":
+            {
+                "isrc": "FR6V82355826"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6fu6uFC8eSFWnEcZnkIUdJ"
+            },
+            "id": "6fu6uFC8eSFWnEcZnkIUdJ",
+            "name": "Christmas in Our Hearts",
+            "popularity": 52,
+            "uri": "spotify:track:6fu6uFC8eSFWnEcZnkIUdJ",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-02T22:33:44Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/c2ad563b044e24abbd96aa620ec480b2e9b9c947?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "4mjMhi2iqIJwXIbki5PvOI",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27309fbab093989dbcf6b9cff3d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0209fbab093989dbcf6b9cff3d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485109fbab093989dbcf6b9cff3d",
+                    "width": 64
+                }],
+                "name": "Kislap Ng Pasko",
+                "release_date": "2021-09-10",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4mjMhi2iqIJwXIbki5PvOI",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4mjMhi2iqIJwXIbki5PvOI"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/4DYxV2FeIxTrvX467K26VD"
+                },
+                "id": "4DYxV2FeIxTrvX467K26VD",
+                "name": "YANE",
+                "type": "artist",
+                "uri": "spotify:artist:4DYxV2FeIxTrvX467K26VD"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 164354,
+            "external_ids":
+            {
+                "isrc": "QZMEP2127966"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7qZuncGKxDDJoimO2UwH9T"
+            },
+            "id": "7qZuncGKxDDJoimO2UwH9T",
+            "name": "Kislap Ng Pasko",
+            "popularity": 31,
+            "uri": "spotify:track:7qZuncGKxDDJoimO2UwH9T",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-02T22:34:01Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/df797b3ba5019f470962be4685ee380433326675?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "6Ki7hg4OCJVlXvVf6T4zZf",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27348dc8d3376f0df4a46a3f3c1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0248dc8d3376f0df4a46a3f3c1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485148dc8d3376f0df4a46a3f3c1",
+                    "width": 64
+                }],
+                "name": "Paskong Walang Katulad",
+                "release_date": "1993-11-25",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6Ki7hg4OCJVlXvVf6T4zZf",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/4QvYFzlTFZFg2904xx8gOu"
+                    },
+                    "id": "4QvYFzlTFZFg2904xx8gOu",
+                    "name": "Ariel Rivera",
+                    "type": "artist",
+                    "uri": "spotify:artist:4QvYFzlTFZFg2904xx8gOu"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6Ki7hg4OCJVlXvVf6T4zZf"
+                },
+                "total_tracks": 11
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/4QvYFzlTFZFg2904xx8gOu"
+                },
+                "id": "4QvYFzlTFZFg2904xx8gOu",
+                "name": "Ariel Rivera",
+                "type": "artist",
+                "uri": "spotify:artist:4QvYFzlTFZFg2904xx8gOu"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 231866,
+            "external_ids":
+            {
+                "isrc": "PHBO10300340"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/2TMwa7JqgnTxo6koLACzjh"
+            },
+            "id": "2TMwa7JqgnTxo6koLACzjh",
+            "name": "Sana Ngayong Pasko",
+            "popularity": 46,
+            "uri": "spotify:track:2TMwa7JqgnTxo6koLACzjh",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-02T22:34:13Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/1c5163960194d0780905f212d6deb8c237ea9f82?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "338KdV70V9Ydte2VjODdz0",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2730fc2ce9b10940aa004a0dd5c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e020fc2ce9b10940aa004a0dd5c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048510fc2ce9b10940aa004a0dd5c",
+                    "width": 64
+                }],
+                "name": "Sana Ay Makauwi Ka Sa Araw Ng Pasko",
+                "release_date": "2022-12-02",
+                "release_date_precision": "day",
+                "uri": "spotify:album:338KdV70V9Ydte2VjODdz0",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/338KdV70V9Ydte2VjODdz0"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 227000,
+            "external_ids":
+            {
+                "isrc": "QZTAX2230471"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3pWEfdtaStSp14WSHl93ld"
+            },
+            "id": "3pWEfdtaStSp14WSHl93ld",
+            "name": "Sana Ay Makauwi Ka Sa Araw Ng Pasko",
+            "popularity": 29,
+            "uri": "spotify:track:3pWEfdtaStSp14WSHl93ld",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-02T22:58:37Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/79f3d0acfd50b5d1d013c904d52f27fdabd4c619?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "compilation",
+                "id": "6d5OsfJYeAT9G0hL9GmSkp",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27305eb7ab6b4d65bf9d254d7dc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0205eb7ab6b4d65bf9d254d7dc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485105eb7ab6b4d65bf9d254d7dc",
+                    "width": 64
+                }],
+                "name": "Da Best Ang Pasko Ng Pilipino",
+                "release_date": "2011-11-15",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6d5OsfJYeAT9G0hL9GmSkp",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6d5OsfJYeAT9G0hL9GmSkp"
+                },
+                "total_tracks": 17
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/0DnjaQqb436AH1idffI6CQ"
+                },
+                "id": "0DnjaQqb436AH1idffI6CQ",
+                "name": "Yeng Constantino",
+                "type": "artist",
+                "uri": "spotify:artist:0DnjaQqb436AH1idffI6CQ"
+            }],
+            "disc_number": 1,
+            "track_number": 11,
+            "duration_ms": 260182,
+            "external_ids":
+            {
+                "isrc": "PHS090705664"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4IstcSgONW7zVrkbo1jlgn"
+            },
+            "id": "4IstcSgONW7zVrkbo1jlgn",
+            "name": "Pasko Sa Pinas",
+            "popularity": 36,
+            "uri": "spotify:track:4IstcSgONW7zVrkbo1jlgn",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-02T22:58:42Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/3ce8dbb9b1a7a7334ed2addb8f565571ac252749?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "7kCOfrm4lZGStk5kQ6rYng",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ea68d3646c0212531e5806b8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ea68d3646c0212531e5806b8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ea68d3646c0212531e5806b8",
+                    "width": 64
+                }],
+                "name": "Kaibigan, Pasko Na",
+                "release_date": "2023-12-22",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7kCOfrm4lZGStk5kQ6rYng",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7kCOfrm4lZGStk5kQ6rYng"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 155283,
+            "external_ids":
+            {
+                "isrc": "QZWFM2383050"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0Dotk10zqJVPTE0PFDzaV8"
+            },
+            "id": "0Dotk10zqJVPTE0PFDzaV8",
+            "name": "Kaibigan, Pasko Na",
+            "popularity": 25,
+            "uri": "spotify:track:0Dotk10zqJVPTE0PFDzaV8",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-12-09T17:12:32Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/ddfe06e6c7b68054c9b9f2fc48e8e98955eb9a30?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "1U9GMyOmR8u9YGtnhGttUX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2738b3a32977868f8ddc57419e0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e028b3a32977868f8ddc57419e0",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048518b3a32977868f8ddc57419e0",
+                    "width": 64
+                }],
+                "name": "Payapang Pasko",
+                "release_date": "2024-12-06",
+                "release_date_precision": "day",
+                "uri": "spotify:album:1U9GMyOmR8u9YGtnhGttUX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                    },
+                    "id": "007MmXwT1HwcXwuyROgNJb",
+                    "name": "Fred Engay",
+                    "type": "artist",
+                    "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+                },
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/4xlJM5M1qBxYNgyQjk9Dux"
+                    },
+                    "id": "4xlJM5M1qBxYNgyQjk9Dux",
+                    "name": "Sisophi",
+                    "type": "artist",
+                    "uri": "spotify:artist:4xlJM5M1qBxYNgyQjk9Dux"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/1U9GMyOmR8u9YGtnhGttUX"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/007MmXwT1HwcXwuyROgNJb"
+                },
+                "id": "007MmXwT1HwcXwuyROgNJb",
+                "name": "Fred Engay",
+                "type": "artist",
+                "uri": "spotify:artist:007MmXwT1HwcXwuyROgNJb"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/4xlJM5M1qBxYNgyQjk9Dux"
+                },
+                "id": "4xlJM5M1qBxYNgyQjk9Dux",
+                "name": "Sisophi",
+                "type": "artist",
+                "uri": "spotify:artist:4xlJM5M1qBxYNgyQjk9Dux"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1R8Dld0j4C5ycuTS4So5Hk"
+                },
+                "id": "1R8Dld0j4C5ycuTS4So5Hk",
+                "name": "Kristel Marie",
+                "type": "artist",
+                "uri": "spotify:artist:1R8Dld0j4C5ycuTS4So5Hk"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1TtNBnkD5ZlMh6d3HYjmrX"
+                },
+                "id": "1TtNBnkD5ZlMh6d3HYjmrX",
+                "name": "Indayspirations",
+                "type": "artist",
+                "uri": "spotify:artist:1TtNBnkD5ZlMh6d3HYjmrX"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/31vS4mBfNmdJ3TJ8LzOvYU"
+                },
+                "id": "31vS4mBfNmdJ3TJ8LzOvYU",
+                "name": "Isay Nobleza",
+                "type": "artist",
+                "uri": "spotify:artist:31vS4mBfNmdJ3TJ8LzOvYU"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/0z7yigNxK97U1zIYYibs6q"
+                },
+                "id": "0z7yigNxK97U1zIYYibs6q",
+                "name": "Pepsi Ramos",
+                "type": "artist",
+                "uri": "spotify:artist:0z7yigNxK97U1zIYYibs6q"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7cwQ8pBvXGFhOcVDP5Xbb2"
+                },
+                "id": "7cwQ8pBvXGFhOcVDP5Xbb2",
+                "name": "Vince Oreves",
+                "type": "artist",
+                "uri": "spotify:artist:7cwQ8pBvXGFhOcVDP5Xbb2"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/5tNTxK3UUhHeTE3jE1TYJS"
+                },
+                "id": "5tNTxK3UUhHeTE3jE1TYJS",
+                "name": "Henry Alburo",
+                "type": "artist",
+                "uri": "spotify:artist:5tNTxK3UUhHeTE3jE1TYJS"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/5IC2AWpbobfbavVgHlPrSl"
+                },
+                "id": "5IC2AWpbobfbavVgHlPrSl",
+                "name": "Daryl Go",
+                "type": "artist",
+                "uri": "spotify:artist:5IC2AWpbobfbavVgHlPrSl"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/1KXDx5abAdDQAdA6gXsc8x"
+                },
+                "id": "1KXDx5abAdDQAdA6gXsc8x",
+                "name": "JP Ferrer",
+                "type": "artist",
+                "uri": "spotify:artist:1KXDx5abAdDQAdA6gXsc8x"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/4fIXOb35pkGCdFij0Sqdk5"
+                },
+                "id": "4fIXOb35pkGCdFij0Sqdk5",
+                "name": "Poy Labartinos",
+                "type": "artist",
+                "uri": "spotify:artist:4fIXOb35pkGCdFij0Sqdk5"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 272917,
+            "external_ids":
+            {
+                "isrc": "QZZ7M2478120"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/67a2w2hDVPtEKkEiW0ce7V"
+            },
+            "id": "67a2w2hDVPtEKkEiW0ce7V",
+            "name": "Payapang Pasko",
+            "popularity": 22,
+            "uri": "spotify:track:67a2w2hDVPtEKkEiW0ce7V",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-12-05T20:33:42Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/jyhra99st5nhex8kfo4um2dh7"
+            },
+            "id": "jyhra99st5nhex8kfo4um2dh7",
+            "type": "user",
+            "uri": "spotify:user:jyhra99st5nhex8kfo4um2dh7"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/d672d2515a04435942e0b68451ef08b764642ea1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "6LQ2geIiI40eujhd8f4TAR",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273d9ba71dc206a301142a18967",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02d9ba71dc206a301142a18967",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851d9ba71dc206a301142a18967",
+                    "width": 64
+                }],
+                "name": "Katahimikan?",
+                "release_date": "2024-05-03",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6LQ2geIiI40eujhd8f4TAR",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/6R5dVlEPxGZ89iGWc1ICcE"
+                    },
+                    "id": "6R5dVlEPxGZ89iGWc1ICcE",
+                    "name": "Dagger Dion",
+                    "type": "artist",
+                    "uri": "spotify:artist:6R5dVlEPxGZ89iGWc1ICcE"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6LQ2geIiI40eujhd8f4TAR"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/6R5dVlEPxGZ89iGWc1ICcE"
+                },
+                "id": "6R5dVlEPxGZ89iGWc1ICcE",
+                "name": "Dagger Dion",
+                "type": "artist",
+                "uri": "spotify:artist:6R5dVlEPxGZ89iGWc1ICcE"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 246359,
+            "external_ids":
+            {
+                "isrc": "QZHNA2475374"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/2BFmB40cj0KoF7jT9mM5Mu"
+            },
+            "id": "2BFmB40cj0KoF7jT9mM5Mu",
+            "name": "Katahimikan?",
+            "popularity": 28,
+            "uri": "spotify:track:2BFmB40cj0KoF7jT9mM5Mu",
+            "is_local": false
+        }
+    }]
+}

@@ -1,0 +1,3502 @@
+{
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 33,
+    "items": [
+    {
+        "added_at": "2024-12-17T11:28:06Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/9ebd13fb73169535ce1747bf084190b0cde8b18d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "4aL2E0ETyWaagZ4FznXxYT",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2739af5613f800691cd0dc924e1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e029af5613f800691cd0dc924e1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048519af5613f800691cd0dc924e1",
+                    "width": 64
+                }],
+                "name": "Our Stories Shine This Christmas",
+                "release_date": "2024-11-11",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4aL2E0ETyWaagZ4FznXxYT",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4aL2E0ETyWaagZ4FznXxYT"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 352799,
+            "external_ids":
+            {
+                "isrc": "PHS032402901"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/5YleyXVovexQBfPTQx6dJt"
+            },
+            "id": "5YleyXVovexQBfPTQx6dJt",
+            "name": "Our Stories Shine This Christmas",
+            "popularity": 45,
+            "uri": "spotify:track:5YleyXVovexQBfPTQx6dJt",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-11-16T02:30:32Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/414eaa871f7ee4aa17f62e519c6d0781d438ab59?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "30sBK7vSI8Dz0fLcV3Hx3Y",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27354958b3ceeb171720e7f17b5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0254958b3ceeb171720e7f17b5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485154958b3ceeb171720e7f17b5",
+                    "width": 64
+                }],
+                "name": "Joy To The World",
+                "release_date": "2024-11-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:30sBK7vSI8Dz0fLcV3Hx3Y",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/30sBK7vSI8Dz0fLcV3Hx3Y"
+                },
+                "total_tracks": 2
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7jfsRs9by7dszeeE2mlzbf"
+                },
+                "id": "7jfsRs9by7dszeeE2mlzbf",
+                "name": "Theo Martel",
+                "type": "artist",
+                "uri": "spotify:artist:7jfsRs9by7dszeeE2mlzbf"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 176842,
+            "external_ids":
+            {
+                "isrc": "PHS032402831"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4yYs78Dt1jvFc3WfVNiLVt"
+            },
+            "id": "4yYs78Dt1jvFc3WfVNiLVt",
+            "name": "Cherry On Top - Christmas Remix",
+            "popularity": 45,
+            "uri": "spotify:track:4yYs78Dt1jvFc3WfVNiLVt",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-11-14T20:54:56Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/2c8b42ccd94a56db3a05326db394bac9baf4e3bd?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "30sBK7vSI8Dz0fLcV3Hx3Y",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27354958b3ceeb171720e7f17b5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0254958b3ceeb171720e7f17b5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485154958b3ceeb171720e7f17b5",
+                    "width": 64
+                }],
+                "name": "Joy To The World",
+                "release_date": "2024-11-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:30sBK7vSI8Dz0fLcV3Hx3Y",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/30sBK7vSI8Dz0fLcV3Hx3Y"
+                },
+                "total_tracks": 2
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 161162,
+            "external_ids":
+            {
+                "isrc": "PHS032402834"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0SpVJoztP97waXXnu0GjbL"
+            },
+            "id": "0SpVJoztP97waXXnu0GjbL",
+            "name": "Joy To The World",
+            "popularity": 50,
+            "uri": "spotify:track:0SpVJoztP97waXXnu0GjbL",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-11-16T02:31:19Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/d914aff3002c69a0c78fa87068d0f2faa830fa65?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "3lJZmrFNjrKzn6OarSVHRe",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27368a4cdf8c01cc54c5fc7ff55",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0268a4cdf8c01cc54c5fc7ff55",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485168a4cdf8c01cc54c5fc7ff55",
+                    "width": 64
+                }],
+                "name": "Blooming",
+                "release_date": "2024-07-08",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3lJZmrFNjrKzn6OarSVHRe",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3lJZmrFNjrKzn6OarSVHRe"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 232000,
+            "external_ids":
+            {
+                "isrc": "PHS032402863"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/52YkZd4cJahDlGxQquQqSa"
+            },
+            "id": "52YkZd4cJahDlGxQquQqSa",
+            "name": "Blooming",
+            "popularity": 55,
+            "uri": "spotify:track:52YkZd4cJahDlGxQquQqSa",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-10-21T04:19:36Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/f91a40c288f4a5748627fd50a9e9048e480f6e12?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "0ZQswvgQsfCYoboOU5lyBd",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2734ba1c6ad31c95ebb229c93be",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e024ba1c6ad31c95ebb229c93be",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048514ba1c6ad31c95ebb229c93be",
+                    "width": 64
+                }],
+                "name": "ICON",
+                "release_date": "2024-07-08",
+                "release_date_precision": "day",
+                "uri": "spotify:album:0ZQswvgQsfCYoboOU5lyBd",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/0ZQswvgQsfCYoboOU5lyBd"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 206769,
+            "external_ids":
+            {
+                "isrc": "PHS032402850"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/5nqKckFx3jU5JM3bd1EwGB"
+            },
+            "id": "5nqKckFx3jU5JM3bd1EwGB",
+            "name": "ICON",
+            "popularity": 50,
+            "uri": "spotify:track:5nqKckFx3jU5JM3bd1EwGB",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-10-04T02:48:39Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/bb67ad217cc9dad6a0e690bba6901f4305ac68af?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "5AfAmrLLNS50UFcrBrvX6I",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27384f208d825f9e8be6dfb348a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0284f208d825f9e8be6dfb348a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485184f208d825f9e8be6dfb348a",
+                    "width": 64
+                }],
+                "name": "Cherry On Top (BiniMo Remix)",
+                "release_date": "2024-10-03",
+                "release_date_precision": "day",
+                "uri": "spotify:album:5AfAmrLLNS50UFcrBrvX6I",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                },
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/6pMR8Zgot664613rAiLC2Z"
+                    },
+                    "id": "6pMR8Zgot664613rAiLC2Z",
+                    "name": "AGNEZ MO",
+                    "type": "artist",
+                    "uri": "spotify:artist:6pMR8Zgot664613rAiLC2Z"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/5AfAmrLLNS50UFcrBrvX6I"
+                },
+                "total_tracks": 2
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/6pMR8Zgot664613rAiLC2Z"
+                },
+                "id": "6pMR8Zgot664613rAiLC2Z",
+                "name": "AGNEZ MO",
+                "type": "artist",
+                "uri": "spotify:artist:6pMR8Zgot664613rAiLC2Z"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 201060,
+            "external_ids":
+            {
+                "isrc": "PHS032402832"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6DUoR9vnTgJCwiKELneaH9"
+            },
+            "id": "6DUoR9vnTgJCwiKELneaH9",
+            "name": "Cherry On Top - BiniMo Remix",
+            "popularity": 46,
+            "uri": "spotify:track:6DUoR9vnTgJCwiKELneaH9",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:33:16Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/1592208f98732382c715b5e445057c869fb183e8?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "3ZIjUhwlei1sT2yetvypvJ",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273b89bd876c79f495ab3009444",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02b89bd876c79f495ab3009444",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851b89bd876c79f495ab3009444",
+                    "width": 64
+                }],
+                "name": "Cherry On Top",
+                "release_date": "2024-07-11",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3ZIjUhwlei1sT2yetvypvJ",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3ZIjUhwlei1sT2yetvypvJ"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 175461,
+            "external_ids":
+            {
+                "isrc": "PHS032402621"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6EpoDm2IoOkTfcPkNwhf07"
+            },
+            "id": "6EpoDm2IoOkTfcPkNwhf07",
+            "name": "Cherry On Top",
+            "popularity": 63,
+            "uri": "spotify:track:6EpoDm2IoOkTfcPkNwhf07",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:33:21Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/93703c0a77c348864ec6c80a9a9f725ff284278b?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "2eT1XApzS0GmkJLMlCBdVv",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27369c364be39f1f1f81a8faa03",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0269c364be39f1f1f81a8faa03",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485169c364be39f1f1f81a8faa03",
+                    "width": 64
+                }],
+                "name": "Talaarawan",
+                "release_date": "2024-03-08",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2eT1XApzS0GmkJLMlCBdVv",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2eT1XApzS0GmkJLMlCBdVv"
+                },
+                "total_tracks": 6
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 230218,
+            "external_ids":
+            {
+                "isrc": "PHS032402600"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1iIJtD9hkzw4ZHfR7ND9yb"
+            },
+            "id": "1iIJtD9hkzw4ZHfR7ND9yb",
+            "name": "Salamin, Salamin",
+            "popularity": 69,
+            "uri": "spotify:track:1iIJtD9hkzw4ZHfR7ND9yb",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:33:29Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/7fcb2a37bcc73763abd75f0e325cd66b7bd173a1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "2eT1XApzS0GmkJLMlCBdVv",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27369c364be39f1f1f81a8faa03",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0269c364be39f1f1f81a8faa03",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485169c364be39f1f1f81a8faa03",
+                    "width": 64
+                }],
+                "name": "Talaarawan",
+                "release_date": "2024-03-08",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2eT1XApzS0GmkJLMlCBdVv",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2eT1XApzS0GmkJLMlCBdVv"
+                },
+                "total_tracks": 6
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 268474,
+            "external_ids":
+            {
+                "isrc": "PHS032302379"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1RL9cRcuzCrs75Wb2aq9Op"
+            },
+            "id": "1RL9cRcuzCrs75Wb2aq9Op",
+            "name": "Karera",
+            "popularity": 49,
+            "uri": "spotify:track:1RL9cRcuzCrs75Wb2aq9Op",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:33:32Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/f21fc97cb1c50de590c80792a87d6ee3b1d4e281?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "2eT1XApzS0GmkJLMlCBdVv",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27369c364be39f1f1f81a8faa03",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0269c364be39f1f1f81a8faa03",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485169c364be39f1f1f81a8faa03",
+                    "width": 64
+                }],
+                "name": "Talaarawan",
+                "release_date": "2024-03-08",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2eT1XApzS0GmkJLMlCBdVv",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2eT1XApzS0GmkJLMlCBdVv"
+                },
+                "total_tracks": 6
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 3,
+            "duration_ms": 225466,
+            "external_ids":
+            {
+                "isrc": "PHS032302500"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/03vwhCqyxupZDVEncdnCSc"
+            },
+            "id": "03vwhCqyxupZDVEncdnCSc",
+            "name": "Pantropiko",
+            "popularity": 51,
+            "uri": "spotify:track:03vwhCqyxupZDVEncdnCSc",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:33:38Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/be3fc651772e952a7736e1f9260615da861f2267?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "2eT1XApzS0GmkJLMlCBdVv",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27369c364be39f1f1f81a8faa03",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0269c364be39f1f1f81a8faa03",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485169c364be39f1f1f81a8faa03",
+                    "width": 64
+                }],
+                "name": "Talaarawan",
+                "release_date": "2024-03-08",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2eT1XApzS0GmkJLMlCBdVv",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2eT1XApzS0GmkJLMlCBdVv"
+                },
+                "total_tracks": 6
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 4,
+            "duration_ms": 201383,
+            "external_ids":
+            {
+                "isrc": "PHS032402599"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7Dx27QY6OJmWv4ZSCW9OpF"
+            },
+            "id": "7Dx27QY6OJmWv4ZSCW9OpF",
+            "name": "Ang Huling Cha Cha",
+            "popularity": 56,
+            "uri": "spotify:track:7Dx27QY6OJmWv4ZSCW9OpF",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:33:42Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/a097e09c65c99cd67760e888dc4b25f3b9f267dd?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "2eT1XApzS0GmkJLMlCBdVv",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27369c364be39f1f1f81a8faa03",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0269c364be39f1f1f81a8faa03",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485169c364be39f1f1f81a8faa03",
+                    "width": 64
+                }],
+                "name": "Talaarawan",
+                "release_date": "2024-03-08",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2eT1XApzS0GmkJLMlCBdVv",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2eT1XApzS0GmkJLMlCBdVv"
+                },
+                "total_tracks": 6
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 6,
+            "duration_ms": 197488,
+            "external_ids":
+            {
+                "isrc": "PHS032402597"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7j3FzXqlvcSpe58Ska2tes"
+            },
+            "id": "7j3FzXqlvcSpe58Ska2tes",
+            "name": "Diyan Ka Lang",
+            "popularity": 55,
+            "uri": "spotify:track:7j3FzXqlvcSpe58Ska2tes",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:33:45Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/901190e428ca2be5acb5ca447a6e8cca7259220e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "2eT1XApzS0GmkJLMlCBdVv",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27369c364be39f1f1f81a8faa03",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0269c364be39f1f1f81a8faa03",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485169c364be39f1f1f81a8faa03",
+                    "width": 64
+                }],
+                "name": "Talaarawan",
+                "release_date": "2024-03-08",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2eT1XApzS0GmkJLMlCBdVv",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2eT1XApzS0GmkJLMlCBdVv"
+                },
+                "total_tracks": 6
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 5,
+            "duration_ms": 241255,
+            "external_ids":
+            {
+                "isrc": "PHS032402598"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3iiFRTfSUP34KVekvWoV3F"
+            },
+            "id": "3iiFRTfSUP34KVekvWoV3F",
+            "name": "Na Na Nandito Lang",
+            "popularity": 57,
+            "uri": "spotify:track:3iiFRTfSUP34KVekvWoV3F",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2025-01-27T03:24:29Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/d88d0c885ea6981038697f103c6a01cf7d898e64?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "7H64wogfyQUcRqFZFbMV9S",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733813da6b90e2db9f17b945ad",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023813da6b90e2db9f17b945ad",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513813da6b90e2db9f17b945ad",
+                    "width": 64
+                }],
+                "name": "Feel Good",
+                "release_date": "2022-09-29",
+                "release_date_precision": "day",
+                "uri": "spotify:album:7H64wogfyQUcRqFZFbMV9S",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/7H64wogfyQUcRqFZFbMV9S"
+                },
+                "total_tracks": 7
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 256410,
+            "external_ids":
+            {
+                "isrc": "PHS032202037"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/5YV9UyeC3dMV4kuRiTMGJs"
+            },
+            "id": "5YV9UyeC3dMV4kuRiTMGJs",
+            "name": "Lagi",
+            "popularity": 64,
+            "uri": "spotify:track:5YV9UyeC3dMV4kuRiTMGJs",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:33:49Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/a3cb2260294db9e7afb516f67227848a5097479b?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2JFAmLbybI6ExZ5l1DTuQI",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273be1ab2e266d1231f82842b85",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02be1ab2e266d1231f82842b85",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851be1ab2e266d1231f82842b85",
+                    "width": 64
+                }],
+                "name": "Feel Good",
+                "release_date": "2022-09-29",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2JFAmLbybI6ExZ5l1DTuQI",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2JFAmLbybI6ExZ5l1DTuQI"
+                },
+                "total_tracks": 7
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 5,
+            "duration_ms": 200975,
+            "external_ids":
+            {
+                "isrc": "PHS032202124"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1yja0zSvvgJtbV34B02kLG"
+            },
+            "id": "4J20QVGtdAAOYMpb8iY2GG",
+            "name": "Strings",
+            "popularity": 0,
+            "uri": "spotify:track:4J20QVGtdAAOYMpb8iY2GG",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/1yja0zSvvgJtbV34B02kLG"
+                },
+                "id": "1yja0zSvvgJtbV34B02kLG",
+                "type": "track",
+                "uri": "spotify:track:1yja0zSvvgJtbV34B02kLG"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:33:53Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/95f7d42ecf289107dfbae0fdd60d6f0573f35294?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2JFAmLbybI6ExZ5l1DTuQI",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273be1ab2e266d1231f82842b85",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02be1ab2e266d1231f82842b85",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851be1ab2e266d1231f82842b85",
+                    "width": 64
+                }],
+                "name": "Feel Good",
+                "release_date": "2022-09-29",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2JFAmLbybI6ExZ5l1DTuQI",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2JFAmLbybI6ExZ5l1DTuQI"
+                },
+                "total_tracks": 7
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 3,
+            "duration_ms": 228052,
+            "external_ids":
+            {
+                "isrc": "PHS032202099"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1MnYtq87kOg2qlJOEgnYPp"
+            },
+            "id": "4ugPBlOXJtKOkOxQRQpUVE",
+            "name": "I Feel Good",
+            "popularity": 0,
+            "uri": "spotify:track:4ugPBlOXJtKOkOxQRQpUVE",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/1MnYtq87kOg2qlJOEgnYPp"
+                },
+                "id": "1MnYtq87kOg2qlJOEgnYPp",
+                "type": "track",
+                "uri": "spotify:track:1MnYtq87kOg2qlJOEgnYPp"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/158f01fa3eaa2611af137a01915b7c0537d576a2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2JFAmLbybI6ExZ5l1DTuQI",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273be1ab2e266d1231f82842b85",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02be1ab2e266d1231f82842b85",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851be1ab2e266d1231f82842b85",
+                    "width": 64
+                }],
+                "name": "Feel Good",
+                "release_date": "2022-09-29",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2JFAmLbybI6ExZ5l1DTuQI",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2JFAmLbybI6ExZ5l1DTuQI"
+                },
+                "total_tracks": 7
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 207304,
+            "external_ids":
+            {
+                "isrc": "PHS032202142"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1yfRHeHmcUGlUAJxC7QPnP"
+            },
+            "id": "5xNbWnsQJ9lyzPlK36J1cm",
+            "name": "No Fear",
+            "popularity": 0,
+            "uri": "spotify:track:5xNbWnsQJ9lyzPlK36J1cm",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/1yfRHeHmcUGlUAJxC7QPnP"
+                },
+                "id": "1yfRHeHmcUGlUAJxC7QPnP",
+                "type": "track",
+                "uri": "spotify:track:1yfRHeHmcUGlUAJxC7QPnP"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:10Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/ca73352c3971c3e1718a0849cb227b88dcefaa47?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "2JFAmLbybI6ExZ5l1DTuQI",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273be1ab2e266d1231f82842b85",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02be1ab2e266d1231f82842b85",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851be1ab2e266d1231f82842b85",
+                    "width": 64
+                }],
+                "name": "Feel Good",
+                "release_date": "2022-09-29",
+                "release_date_precision": "day",
+                "uri": "spotify:album:2JFAmLbybI6ExZ5l1DTuQI",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/2JFAmLbybI6ExZ5l1DTuQI"
+                },
+                "total_tracks": 7
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 4,
+            "duration_ms": 297600,
+            "external_ids":
+            {
+                "isrc": "PHS032202122"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1HXXUY6x55zkm8vYYHhwqp"
+            },
+            "id": "7haQq014RoahMX6spW4z1z",
+            "name": "Huwag Muna Tayong Umuwi",
+            "popularity": 0,
+            "uri": "spotify:track:7haQq014RoahMX6spW4z1z",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/1HXXUY6x55zkm8vYYHhwqp"
+                },
+                "id": "1HXXUY6x55zkm8vYYHhwqp",
+                "type": "track",
+                "uri": "spotify:track:1HXXUY6x55zkm8vYYHhwqp"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:16Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/59cdf00554824620786327d71e5fb5d92fcfc446?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "61S9dOljMoxlArx68sMYdo",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ac82b4a48e54d75e74a5c580",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ac82b4a48e54d75e74a5c580",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ac82b4a48e54d75e74a5c580",
+                    "width": 64
+                }],
+                "name": "Born To Win",
+                "release_date": "2021-10-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:61S9dOljMoxlArx68sMYdo",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/61S9dOljMoxlArx68sMYdo"
+                },
+                "total_tracks": 12
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 173888,
+            "external_ids":
+            {
+                "isrc": "PHS032101620"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0zTmcNKTKyxMohxIvjpIAV"
+            },
+            "id": "5ZzJXBVQCTolSrzUdPJduW",
+            "name": "Born To Win",
+            "popularity": 0,
+            "uri": "spotify:track:5ZzJXBVQCTolSrzUdPJduW",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/0zTmcNKTKyxMohxIvjpIAV"
+                },
+                "id": "0zTmcNKTKyxMohxIvjpIAV",
+                "type": "track",
+                "uri": "spotify:track:0zTmcNKTKyxMohxIvjpIAV"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:20Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/e3d479edda9983a9d7e7c59b6cbfc7c685660f6f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "61S9dOljMoxlArx68sMYdo",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ac82b4a48e54d75e74a5c580",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ac82b4a48e54d75e74a5c580",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ac82b4a48e54d75e74a5c580",
+                    "width": 64
+                }],
+                "name": "Born To Win",
+                "release_date": "2021-10-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:61S9dOljMoxlArx68sMYdo",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/61S9dOljMoxlArx68sMYdo"
+                },
+                "total_tracks": 12
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 6,
+            "duration_ms": 169846,
+            "external_ids":
+            {
+                "isrc": "PHS032101734"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/5ohhLPlttYKblBQPgYSCcH"
+            },
+            "id": "47FtbLmQPMVEGbmKTmNnbb",
+            "name": "Kapit Lang",
+            "popularity": 0,
+            "uri": "spotify:track:47FtbLmQPMVEGbmKTmNnbb",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/5ohhLPlttYKblBQPgYSCcH"
+                },
+                "id": "5ohhLPlttYKblBQPgYSCcH",
+                "type": "track",
+                "uri": "spotify:track:5ohhLPlttYKblBQPgYSCcH"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:27Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/73f3f195e13c7706dd11eec8229b52d5e7f976fe?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "61S9dOljMoxlArx68sMYdo",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ac82b4a48e54d75e74a5c580",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ac82b4a48e54d75e74a5c580",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ac82b4a48e54d75e74a5c580",
+                    "width": 64
+                }],
+                "name": "Born To Win",
+                "release_date": "2021-10-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:61S9dOljMoxlArx68sMYdo",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/61S9dOljMoxlArx68sMYdo"
+                },
+                "total_tracks": 12
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 2,
+            "duration_ms": 227948,
+            "external_ids":
+            {
+                "isrc": "PHS032101779"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/3GYrHsq8M1hc7G6P0OP4R8"
+            },
+            "id": "4XQV9Qs6N1sjfOq83IhILo",
+            "name": "Golden Arrow",
+            "popularity": 0,
+            "uri": "spotify:track:4XQV9Qs6N1sjfOq83IhILo",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/3GYrHsq8M1hc7G6P0OP4R8"
+                },
+                "id": "3GYrHsq8M1hc7G6P0OP4R8",
+                "type": "track",
+                "uri": "spotify:track:3GYrHsq8M1hc7G6P0OP4R8"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:33Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/0d9ea819ea7b7aa31caa24aff8fddf8b7673aa1a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "61S9dOljMoxlArx68sMYdo",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ac82b4a48e54d75e74a5c580",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ac82b4a48e54d75e74a5c580",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ac82b4a48e54d75e74a5c580",
+                    "width": 64
+                }],
+                "name": "Born To Win",
+                "release_date": "2021-10-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:61S9dOljMoxlArx68sMYdo",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/61S9dOljMoxlArx68sMYdo"
+                },
+                "total_tracks": 12
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 4,
+            "duration_ms": 251076,
+            "external_ids":
+            {
+                "isrc": "PHS032101778"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/5zoJ1eChvongUvr14bzckH"
+            },
+            "id": "4aqkICleG6HLRc2ygpWqN1",
+            "name": "Na Na Na",
+            "popularity": 0,
+            "uri": "spotify:track:4aqkICleG6HLRc2ygpWqN1",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/5zoJ1eChvongUvr14bzckH"
+                },
+                "id": "5zoJ1eChvongUvr14bzckH",
+                "type": "track",
+                "uri": "spotify:track:5zoJ1eChvongUvr14bzckH"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:39Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/0bd50b5afceabed327d4f945934c200a6e4874a7?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "61S9dOljMoxlArx68sMYdo",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ac82b4a48e54d75e74a5c580",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ac82b4a48e54d75e74a5c580",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ac82b4a48e54d75e74a5c580",
+                    "width": 64
+                }],
+                "name": "Born To Win",
+                "release_date": "2021-10-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:61S9dOljMoxlArx68sMYdo",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/61S9dOljMoxlArx68sMYdo"
+                },
+                "total_tracks": 12
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 5,
+            "duration_ms": 215173,
+            "external_ids":
+            {
+                "isrc": "PHS032101787"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1zslHO6faPItkjXWa9Upow"
+            },
+            "id": "2t76tRFVKZOz0nzTEnVV7u",
+            "name": "Kinikilig",
+            "popularity": 0,
+            "uri": "spotify:track:2t76tRFVKZOz0nzTEnVV7u",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/1zslHO6faPItkjXWa9Upow"
+                },
+                "id": "1zslHO6faPItkjXWa9Upow",
+                "type": "track",
+                "uri": "spotify:track:1zslHO6faPItkjXWa9Upow"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:43Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/1538376f46faa25d3410e2867a54ee7666c7539a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "61S9dOljMoxlArx68sMYdo",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ac82b4a48e54d75e74a5c580",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ac82b4a48e54d75e74a5c580",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ac82b4a48e54d75e74a5c580",
+                    "width": 64
+                }],
+                "name": "Born To Win",
+                "release_date": "2021-10-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:61S9dOljMoxlArx68sMYdo",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/61S9dOljMoxlArx68sMYdo"
+                },
+                "total_tracks": 12
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/3YMD25xZdbAyoezzh29lgm"
+                },
+                "id": "3YMD25xZdbAyoezzh29lgm",
+                "name": "Kritiko",
+                "type": "artist",
+                "uri": "spotify:artist:3YMD25xZdbAyoezzh29lgm"
+            }],
+            "disc_number": 1,
+            "track_number": 3,
+            "duration_ms": 211200,
+            "external_ids":
+            {
+                "isrc": "PHS032101783"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/4wkKzhY11SnUxYljJFLDCx"
+            },
+            "id": "6B8LtMPhqUFuqQIxi5y8yb",
+            "name": "B HU U R",
+            "popularity": 0,
+            "uri": "spotify:track:6B8LtMPhqUFuqQIxi5y8yb",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/4wkKzhY11SnUxYljJFLDCx"
+                },
+                "id": "4wkKzhY11SnUxYljJFLDCx",
+                "type": "track",
+                "uri": "spotify:track:4wkKzhY11SnUxYljJFLDCx"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:46Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/406e5dc2e92b5241a4d1bde2bcedc594e72a7ef1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "61S9dOljMoxlArx68sMYdo",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ac82b4a48e54d75e74a5c580",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ac82b4a48e54d75e74a5c580",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ac82b4a48e54d75e74a5c580",
+                    "width": 64
+                }],
+                "name": "Born To Win",
+                "release_date": "2021-10-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:61S9dOljMoxlArx68sMYdo",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/61S9dOljMoxlArx68sMYdo"
+                },
+                "total_tracks": 12
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 7,
+            "duration_ms": 226386,
+            "external_ids":
+            {
+                "isrc": "PHS032101777"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/2gBIUhGLia69i29tsNbEBt"
+            },
+            "id": "6i6gQ9Mqnv4Sn7OlfObobC",
+            "name": "8",
+            "popularity": 0,
+            "uri": "spotify:track:6i6gQ9Mqnv4Sn7OlfObobC",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/2gBIUhGLia69i29tsNbEBt"
+                },
+                "id": "2gBIUhGLia69i29tsNbEBt",
+                "type": "track",
+                "uri": "spotify:track:2gBIUhGLia69i29tsNbEBt"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:50Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/f2699b58a8ce62c633a11d81a81b5c99a8e252c3?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "album",
+                "id": "61S9dOljMoxlArx68sMYdo",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ac82b4a48e54d75e74a5c580",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ac82b4a48e54d75e74a5c580",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ac82b4a48e54d75e74a5c580",
+                    "width": 64
+                }],
+                "name": "Born To Win",
+                "release_date": "2021-10-14",
+                "release_date_precision": "day",
+                "uri": "spotify:album:61S9dOljMoxlArx68sMYdo",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/61S9dOljMoxlArx68sMYdo"
+                },
+                "total_tracks": 12
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 8,
+            "duration_ms": 212727,
+            "external_ids":
+            {
+                "isrc": "PHS032101776"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/1a6EoFOoyL1YaDjugt4JfH"
+            },
+            "id": "1Q6UGbt7c2l4HnopdXNHpS",
+            "name": "Here With You",
+            "popularity": 0,
+            "uri": "spotify:track:1Q6UGbt7c2l4HnopdXNHpS",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/1a6EoFOoyL1YaDjugt4JfH"
+                },
+                "id": "1a6EoFOoyL1YaDjugt4JfH",
+                "type": "track",
+                "uri": "spotify:track:1a6EoFOoyL1YaDjugt4JfH"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:52Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/55e36ebc5a3d66b5aed711ff4b1dee23375bb350?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "3OsMnSx7FA2zMkPwo6LP61",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273ff94f9ddb4c953dab904cf28",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02ff94f9ddb4c953dab904cf28",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851ff94f9ddb4c953dab904cf28",
+                    "width": 64
+                }],
+                "name": "Da Coconut Nut",
+                "release_date": "2020-12-04",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3OsMnSx7FA2zMkPwo6LP61",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3OsMnSx7FA2zMkPwo6LP61"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 212192,
+            "external_ids":
+            {
+                "isrc": "PHS032001493"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/2qnU0Yqi6ua3nxG7RRVJzA"
+            },
+            "id": "0oSyeQT1PrwyPreTBq2dDN",
+            "name": "Da Coconut Nut",
+            "popularity": 0,
+            "uri": "spotify:track:0oSyeQT1PrwyPreTBq2dDN",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/2qnU0Yqi6ua3nxG7RRVJzA"
+                },
+                "id": "2qnU0Yqi6ua3nxG7RRVJzA",
+                "type": "track",
+                "uri": "spotify:track:2qnU0Yqi6ua3nxG7RRVJzA"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:34:56Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/75db070a4a013671cc86d75ada8100c8afb5f780?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "6dFBPAA4Ip65F50LOKwwDD",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273976a218fc5c07cdde7e917da",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02976a218fc5c07cdde7e917da",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851976a218fc5c07cdde7e917da",
+                    "width": 64
+                }],
+                "name": "Pit A Pat",
+                "release_date": "2022-04-29",
+                "release_date_precision": "day",
+                "uri": "spotify:album:6dFBPAA4Ip65F50LOKwwDD",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/6dFBPAA4Ip65F50LOKwwDD"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 220000,
+            "external_ids":
+            {
+                "isrc": "PHS032201996"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/79KjJGfIVfbkwHBxHqohTT"
+            },
+            "id": "5uo819IFkx2XeL5cLNhfsU",
+            "name": "Pit A Pat",
+            "popularity": 0,
+            "uri": "spotify:track:5uo819IFkx2XeL5cLNhfsU",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/79KjJGfIVfbkwHBxHqohTT"
+                },
+                "id": "79KjJGfIVfbkwHBxHqohTT",
+                "type": "track",
+                "uri": "spotify:track:79KjJGfIVfbkwHBxHqohTT"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:35:00Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/3882b33b689eec9fa8093854103a8e8a07ffb2b6?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "4dW9IHCA32RJgkGoJBFmCX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b27397198ce9c21239124c0b92b4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e0297198ce9c21239124c0b92b4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000485197198ce9c21239124c0b92b4",
+                    "width": 64
+                }],
+                "name": "Love Yourself",
+                "release_date": "2022-09-07",
+                "release_date_precision": "day",
+                "uri": "spotify:album:4dW9IHCA32RJgkGoJBFmCX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/4dW9IHCA32RJgkGoJBFmCX"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 175238,
+            "external_ids":
+            {
+                "isrc": "PHS032202101"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/7uB49FMeQDpoVwTSYnYsdz"
+            },
+            "id": "51hPr73ZZSP9Wfki09vyOI",
+            "name": "Love Yourself",
+            "popularity": 0,
+            "uri": "spotify:track:51hPr73ZZSP9Wfki09vyOI",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/7uB49FMeQDpoVwTSYnYsdz"
+                },
+                "id": "7uB49FMeQDpoVwTSYnYsdz",
+                "type": "track",
+                "uri": "spotify:track:7uB49FMeQDpoVwTSYnYsdz"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:35:05Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/62b17eddb74c9d4077349829b9b711c8d1acc1c0?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "0SOSnP1ZoEnNwRg3ioo4C7",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2737060cd6146df83e6d14dd071",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e027060cd6146df83e6d14dd071",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048517060cd6146df83e6d14dd071",
+                    "width": 64
+                }],
+                "name": "Made For All",
+                "release_date": "2022-09-09",
+                "release_date_precision": "day",
+                "uri": "spotify:album:0SOSnP1ZoEnNwRg3ioo4C7",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/0SOSnP1ZoEnNwRg3ioo4C7"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 120226,
+            "external_ids":
+            {
+                "isrc": "PHS032202112"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6Qc9WXhHeRV5RlSdR72DNo"
+            },
+            "id": "580EzR9sfqKVUTRGAcPzcN",
+            "name": "Made For All",
+            "popularity": 0,
+            "uri": "spotify:track:580EzR9sfqKVUTRGAcPzcN",
+            "is_local": false,
+            "linked_from":
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/track\/6Qc9WXhHeRV5RlSdR72DNo"
+                },
+                "id": "6Qc9WXhHeRV5RlSdR72DNo",
+                "type": "track",
+                "uri": "spotify:track:6Qc9WXhHeRV5RlSdR72DNo"
+            }
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:35:15Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/ad220de7ef17eeb66ad82c3b141317154429b0c7?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "08SG7eD7f66IbsYyz2h8pq",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b2733c9fb9b81f444eb505b8799d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e023c9fb9b81f444eb505b8799d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d000048513c9fb9b81f444eb505b8799d",
+                    "width": 64
+                }],
+                "name": "Bata, Kaya Mo!",
+                "release_date": "2024-01-26",
+                "release_date_precision": "day",
+                "uri": "spotify:album:08SG7eD7f66IbsYyz2h8pq",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                },
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/4wjgqUtfS9TNfMHhjEqAb7"
+                    },
+                    "id": "4wjgqUtfS9TNfMHhjEqAb7",
+                    "name": "PLAYERTWO",
+                    "type": "artist",
+                    "uri": "spotify:artist:4wjgqUtfS9TNfMHhjEqAb7"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/08SG7eD7f66IbsYyz2h8pq"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/4wjgqUtfS9TNfMHhjEqAb7"
+                },
+                "id": "4wjgqUtfS9TNfMHhjEqAb7",
+                "name": "PLAYERTWO",
+                "type": "artist",
+                "uri": "spotify:artist:4wjgqUtfS9TNfMHhjEqAb7"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 211210,
+            "external_ids":
+            {
+                "isrc": "PHS032402561"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/0pxEX9Q7eO5BcQQjoNRYz0"
+            },
+            "id": "0pxEX9Q7eO5BcQQjoNRYz0",
+            "name": "Bata, Kaya Mo!",
+            "popularity": 49,
+            "uri": "spotify:track:0pxEX9Q7eO5BcQQjoNRYz0",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2024-09-13T11:35:16Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/44c6f27adc874c45ebb0767a94fbd41afc02340c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "3udXu1CsMJWL6N1zE4J9BX",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273cee28d7bd3e88e40657e5e87",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02cee28d7bd3e88e40657e5e87",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851cee28d7bd3e88e40657e5e87",
+                    "width": 64
+                }],
+                "name": "Kabataang Pinoy",
+                "release_date": "2022-03-18",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3udXu1CsMJWL6N1zE4J9BX",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/2phVzutDtUZDar3PEpAO3R"
+                    },
+                    "id": "2phVzutDtUZDar3PEpAO3R",
+                    "name": "Jonathan Manalo",
+                    "type": "artist",
+                    "uri": "spotify:artist:2phVzutDtUZDar3PEpAO3R"
+                },
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                },
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/3g7vYcdDXnqnDKYFwqXBJP"
+                    },
+                    "id": "3g7vYcdDXnqnDKYFwqXBJP",
+                    "name": "SB19",
+                    "type": "artist",
+                    "uri": "spotify:artist:3g7vYcdDXnqnDKYFwqXBJP"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3udXu1CsMJWL6N1zE4J9BX"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/3g7vYcdDXnqnDKYFwqXBJP"
+                },
+                "id": "3g7vYcdDXnqnDKYFwqXBJP",
+                "name": "SB19",
+                "type": "artist",
+                "uri": "spotify:artist:3g7vYcdDXnqnDKYFwqXBJP"
+            },
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/2phVzutDtUZDar3PEpAO3R"
+                },
+                "id": "2phVzutDtUZDar3PEpAO3R",
+                "name": "Jonathan Manalo",
+                "type": "artist",
+                "uri": "spotify:artist:2phVzutDtUZDar3PEpAO3R"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 257905,
+            "external_ids":
+            {
+                "isrc": "PHS032201972"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/6aXWWGw7sQJLx82jZndSQZ"
+            },
+            "id": "6aXWWGw7sQJLx82jZndSQZ",
+            "name": "Kabataang Pinoy",
+            "popularity": 47,
+            "uri": "spotify:track:6aXWWGw7sQJLx82jZndSQZ",
+            "is_local": false
+        }
+    },
+    {
+        "added_at": "2025-02-11T00:45:02Z",
+        "primary_color": null,
+        "video_thumbnail":
+        {
+            "url": null
+        },
+        "is_local": false,
+        "added_by":
+        {
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/user\/313g3woft7s54bslss2r7fav3nki"
+            },
+            "id": "313g3woft7s54bslss2r7fav3nki",
+            "type": "user",
+            "uri": "spotify:user:313g3woft7s54bslss2r7fav3nki"
+        },
+        "track":
+        {
+            "preview_url": "https:\/\/p.scdn.co\/mp3-preview\/fd14273ee888128c4984bc32902f3e7beafbac58?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+            "is_playable": true,
+            "explicit": false,
+            "type": "track",
+            "episode": false,
+            "track": true,
+            "album":
+            {
+                "is_playable": true,
+                "type": "album",
+                "album_type": "single",
+                "id": "3h9ESiwFWb0JO485rjmCOI",
+                "images": [
+                {
+                    "height": 640,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d0000b273363da5b1d24c07844844aa82",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00001e02363da5b1d24c07844844aa82",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https:\/\/i.scdn.co\/image\/ab67616d00004851363da5b1d24c07844844aa82",
+                    "width": 64
+                }],
+                "name": "Super Crush",
+                "release_date": "2023-09-20",
+                "release_date_precision": "day",
+                "uri": "spotify:album:3h9ESiwFWb0JO485rjmCOI",
+                "artists": [
+                {
+                    "external_urls":
+                    {
+                        "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                    },
+                    "id": "7tNO3vJC9zlHy2IJOx34ga",
+                    "name": "BINI",
+                    "type": "artist",
+                    "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+                }],
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/album\/3h9ESiwFWb0JO485rjmCOI"
+                },
+                "total_tracks": 1
+            },
+            "artists": [
+            {
+                "external_urls":
+                {
+                    "spotify": "https:\/\/open.spotify.com\/artist\/7tNO3vJC9zlHy2IJOx34ga"
+                },
+                "id": "7tNO3vJC9zlHy2IJOx34ga",
+                "name": "BINI",
+                "type": "artist",
+                "uri": "spotify:artist:7tNO3vJC9zlHy2IJOx34ga"
+            }],
+            "disc_number": 1,
+            "track_number": 1,
+            "duration_ms": 159069,
+            "external_ids":
+            {
+                "isrc": "PHS032302400"
+            },
+            "external_urls":
+            {
+                "spotify": "https:\/\/open.spotify.com\/track\/56wTbR92GiVk86sH3KWR34"
+            },
+            "id": "56wTbR92GiVk86sH3KWR34",
+            "name": "Super Crush",
+            "popularity": 46,
+            "uri": "spotify:track:56wTbR92GiVk86sH3KWR34",
+            "is_local": false
+        }
+    }]
+}
