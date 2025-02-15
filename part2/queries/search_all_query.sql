@@ -1,0 +1,15 @@
+SET SESSION group_concat_max_len = 1000000;
+SET @sql = NULL;
+
+SELECT GROUP_CONCAT(
+    CONCAT('COALESCE(`', COLUMN_NAME, '`, '''') LIKE "%0rZRTXEmmPmx6gt92tBqIc%"')
+    SEPARATOR ' OR '
+) INTO @sql
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'raw_data' AND TABLE_SCHEMA = 'opm_db';
+
+SET @sql = CONCAT('SELECT * FROM raw_data WHERE ', @sql);
+
+PREPARE stmt FROM @sql;
+EXECUTE stmt;
+DEALLOCATE PREPARE stmt;
